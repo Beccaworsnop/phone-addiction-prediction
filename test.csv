@@ -1,0 +1,600 @@
+id,Name,Age,Gender,Location,School_Grade,Daily_Usage_Hours,Sleep_Hours,Academic_Performance,Social_Interactions,Exercise_Hours,Anxiety_Level,Depression_Level,Self_Esteem,Parental_Control,Screen_Time_Before_Bed,Phone_Checks_Per_Day,Apps_Used_Daily,Time_on_Social_Media,Time_on_Gaming,Time_on_Education,Phone_Usage_Purpose,Family_Communication,Weekend_Usage_Hours
+0,Najia Louanchi,18,Female,Zerdaza,11th,5.3,7.5,97,9,2.3,10,1,10,0,0.6,109,5,1.8,1.1,1.4,Browsing,10,8.5
+1,Oumaima Khelifi,19,Female,Tamanrasset,8th,3.6,7.8,59,9,0.3,1,7,1,1,1.7,85,16,4.0,1.2,0.7,Other,5,8.1
+2,Chafik Adjal,14,Prefer not to say,El Oued,8th,2.4,6.0,84,3,0.0,9,7,5,1,0.3,65,20,2.1,1.5,1.4,Gaming,8,4.0
+3,Leila Djaballah,15,Female,Khraicia,8th,4.3,6.7,93,8,1.1,2,10,9,0,1.9,74,12,3.1,0.2,0.5,Browsing,3,2.9
+4,Wassila Sifi,17,Prefer not to say,Souk El Ténine,10th,5.0,7.2,80,8,0.2,4,4,1,1,1.7,122,16,2.0,2.2,1.2,Social Media,7,7.4
+5,Sarah Sifi,18,Female,Touggourt,8th,6.3,8.0,56,4,1.1,2,6,2,1,0.7,29,20,3.2,2.3,2.6,Gaming,8,9.5
+6,Lina Debbah,18,Female,Médéa,9th,5.0,7.4,60,0,1.0,10,1,4,1,0.5,70,15,4.5,1.0,1.0,Education,5,3.8
+7,Mansour Nasri,13,Prefer not to say,Djanet,11th,5.2,8.5,82,5,1.1,3,1,8,1,0.0,58,15,2.0,3.1,1.4,Education,6,8.6
+8,Hanane Boussaada,19,Male,Batna,12th,6.3,6.1,98,0,0.7,2,6,10,1,0.5,113,14,3.2,0.4,1.3,Other,2,2.0
+9,Chahinez Nasri,14,Male,Tizi Ouzou,9th,4.8,6.3,80,2,1.3,6,5,2,0,0.8,103,19,2.5,2.2,1.4,Social Media,8,11.5
+10,Kahina Aissaoui,16,Female,Blida,9th,5.2,6.0,98,5,0.0,8,3,1,0,1.0,39,7,3.3,0.0,0.0,Other,3,7.7
+11,Nora Zerrouki,13,Prefer not to say,Chaâbet El Ham,9th,2.3,6.2,58,6,1.1,3,2,1,0,0.7,102,11,4.6,1.5,1.9,Social Media,7,1.4
+12,Majda Ferhat,13,Prefer not to say,Aït Yenni,8th,5.3,5.3,72,8,2.2,3,2,5,0,1.6,110,14,5.0,2.0,0.7,Other,8,4.7
+13,Adila Mahdi,16,Prefer not to say,Naama,12th,8.1,6.8,59,1,0.0,7,3,1,0,0.6,129,7,0.7,2.5,1.5,Other,1,5.1
+14,Mustapha Ben Toumi,14,Prefer not to say,El M'Ghair,10th,6.1,6.8,59,8,1.9,6,2,1,1,1.7,60,19,3.1,0.0,0.1,Social Media,3,5.0
+15,Fella Bouteldja,14,Male,Djasr Kasentina,10th,6.9,5.8,63,5,0.5,4,1,1,1,1.2,103,14,2.5,1.2,1.1,Education,6,6.4
+16,Soraya Akroum,19,Male,Mascara,11th,5.5,6.2,50,9,1.7,7,8,3,0,1.1,49,12,1.0,1.6,0.0,Social Media,2,11.2
+17,Rahma Khelifi,15,Male,Aïn Bessem,11th,7.2,8.4,96,4,1.0,9,1,2,1,0.8,24,5,2.9,0.8,1.1,Browsing,10,9.6
+18,Nadir Boutaleb,13,Female,El Hadjira,10th,4.3,6.5,88,4,0.4,1,4,7,1,1.7,82,9,4.1,2.0,1.3,Other,7,2.8
+19,Sid Ahmed Chaoui,18,Male,Mila,10th,5.1,6.2,69,7,1.1,10,1,9,1,0.0,101,16,3.6,2.8,0.5,Education,8,5.4
+20,Tayeb Djilali,16,Male,El Achour,9th,0.0,7.1,78,3,0.3,8,10,8,0,0.4,22,14,4.0,2.3,0.3,Education,1,7.3
+21,Khadija Slimani,15,Female,El Eulma,11th,6.0,7.7,97,6,1.8,2,10,6,1,0.8,144,13,2.3,2.4,0.7,Other,3,6.2
+22,Fateh Remili,14,Prefer not to say,Djebla Zerga,9th,5.0,7.1,55,9,2.2,10,4,7,0,0.9,86,16,2.1,2.1,1.0,Gaming,5,7.0
+23,Yasmina Zitouni,14,Female,Aït Aggouacha,12th,0.0,5.6,51,4,1.3,10,7,6,1,1.2,74,5,1.2,2.9,0.8,Social Media,7,8.7
+24,Melissa Cherif,13,Male,Mascara,12th,5.0,4.8,60,5,0.0,9,9,8,1,0.9,42,14,3.0,1.0,0.9,Education,3,1.8
+25,Shahrazad Merouane,14,Female,Bordj Baji Mokhtar,8th,8.3,9.5,66,10,0.0,2,10,6,0,0.3,131,11,3.8,2.1,1.5,Browsing,4,1.4
+26,Ahmed Meftah,16,Female,Jijel,7th,8.2,5.3,65,6,1.7,3,10,7,1,1.3,90,10,2.6,1.7,1.5,Browsing,2,4.0
+27,Kais Ouled Said,19,Female,El Eulma,7th,6.7,4.6,100,2,1.7,7,8,6,1,1.4,109,18,3.5,1.0,0.3,Education,10,8.9
+28,Salima Bachiri,15,Prefer not to say,Ouyoun El Assafs,9th,6.0,5.6,67,5,1.1,3,1,3,0,1.2,63,7,1.4,2.5,0.1,Gaming,3,6.2
+29,Farid Kadri,13,Prefer not to say,El Taref,9th,4.2,3.8,93,4,1.2,2,2,7,0,1.1,96,14,3.2,1.7,0.9,Social Media,7,8.1
+30,Alaa Eddine Kadri,18,Male,Sidi Aïch,9th,5.8,6.3,95,7,1.9,1,5,1,0,1.8,123,18,2.8,2.1,0.1,Social Media,9,5.8
+31,Sabrina Merabet,16,Prefer not to say,Guidjel,11th,4.0,7.1,96,8,1.6,7,2,3,0,0.3,32,15,3.4,0.4,1.6,Social Media,2,5.8
+32,Rima Benmokhtar,14,Male,Benifouda,10th,5.1,7.6,88,4,2.2,5,5,5,1,0.6,105,11,2.9,1.9,1.4,Education,6,8.2
+33,Farid Amara,13,Female,Mékhadma,7th,2.2,6.6,61,3,0.0,7,6,5,1,0.0,104,12,2.9,0.3,1.6,Gaming,3,10.1
+34,Fateh Mostefaoui,13,Female,El Oued,11th,5.4,4.0,100,3,0.0,9,6,9,1,0.7,108,8,1.7,1.7,1.9,Other,6,2.8
+35,Chaima Hamoudi,13,Female,Bab El Oued,11th,4.1,6.3,57,3,2.0,5,3,7,0,0.4,78,13,1.7,2.2,0.3,Gaming,3,5.8
+36,Samir Ali,17,Male,El Hachimia,10th,6.2,5.2,56,6,2.0,2,3,6,0,1.4,85,17,1.8,0.0,0.0,Social Media,10,6.8
+37,Ahlem Othmani,18,Prefer not to say,Tébessa,11th,5.4,9.1,98,2,0.0,6,7,1,0,1.4,29,19,3.1,2.4,1.4,Education,3,3.9
+38,Farida Zouaoui,14,Male,El Main,10th,4.4,6.0,98,9,1.8,8,5,4,1,1.0,95,14,3.7,1.8,1.8,Other,3,6.8
+39,Emna Lazem,19,Male,Ouargla,7th,7.6,3.0,69,10,0.4,5,7,8,0,0.5,66,7,2.1,3.1,2.0,Social Media,5,5.8
+40,Manel El Hachemi,19,Female,Salah Bey,11th,8.8,7.1,90,1,0.7,1,4,7,1,1.3,95,18,1.7,1.7,1.0,Browsing,8,5.9
+41,Ahmed Madani,13,Female,Timizart,10th,9.2,7.6,93,6,2.1,6,6,10,0,1.0,147,8,3.9,4.0,0.6,Other,4,5.0
+42,Heythem Laid,19,Prefer not to say,Annaba,12th,4.9,4.4,86,5,1.8,7,6,7,1,0.9,90,15,2.5,1.2,0.5,Other,2,4.2
+43,Hassan El Hachemi,16,Male,Skikda,8th,4.9,6.1,51,4,1.1,9,6,9,1,0.8,142,18,0.4,1.7,0.5,Other,10,6.7
+44,Imad Larbi,16,Male,Oued El Berdi,8th,6.6,4.9,60,8,0.0,2,1,8,1,1.3,86,6,3.5,2.5,0.9,Social Media,6,5.0
+45,Hakim Adjal,15,Male,Tamalous,8th,4.4,9.7,71,0,3.0,9,5,6,1,0.0,73,9,2.9,1.6,1.2,Browsing,5,5.2
+46,Ouassim Mahdi,18,Female,In Guezzam,7th,4.6,4.4,80,9,2.1,3,7,5,1,1.0,99,6,3.6,1.0,0.5,Other,7,4.9
+47,Fateh Moualek,18,Female,Issers,7th,6.7,8.0,50,8,2.4,4,10,3,1,1.3,141,17,2.3,1.7,0.4,Social Media,8,4.6
+48,Zahra Daoudi,19,Prefer not to say,Mila,7th,3.2,4.2,67,5,0.1,7,2,3,1,1.5,89,9,3.1,1.1,0.9,Other,9,0.7
+49,Slimane Tayebi,13,Prefer not to say,Ouargla,11th,5.8,5.5,93,8,0.8,2,3,10,0,0.5,137,8,0.3,1.5,0.4,Education,6,5.7
+50,Ikram Baghdad,16,Female,Idrissia,7th,3.3,6.7,79,3,0.9,4,3,6,0,1.2,82,7,1.1,0.7,0.9,Gaming,8,7.0
+51,Yacine Benmokhtar,13,Prefer not to say,Lakhdaria,9th,2.0,8.4,78,10,1.6,5,1,10,0,0.4,140,17,2.0,0.8,2.4,Gaming,1,5.1
+52,Malika Djelloul,18,Male,Issers,7th,0.6,7.8,74,0,1.1,9,3,2,0,0.2,142,17,3.7,1.7,1.1,Browsing,10,6.2
+53,Hocine Boudjemaa,18,Female,Ouled Sidi Brahim,8th,5.7,6.2,52,9,1.3,2,8,10,1,1.9,82,5,2.3,1.8,0.7,Gaming,9,4.1
+54,Kamal Belkacem,18,Female,Zaatcha,10th,5.2,9.2,72,6,1.4,5,5,9,0,1.4,45,14,2.9,0.8,1.7,Browsing,3,8.6
+55,Yacine Bachiri,17,Prefer not to say,Aïn Torki,12th,5.7,7.2,82,5,1.9,9,9,7,0,1.2,66,20,3.8,1.2,0.5,Education,9,4.9
+56,Assia Messaoudi,13,Prefer not to say,Ouled Moussa,9th,5.5,7.0,73,1,1.1,2,1,5,1,0.2,147,16,1.8,1.2,0.8,Social Media,5,5.7
+57,Abdelkader Laid,14,Female,Taskriout,8th,5.0,5.8,76,6,1.2,7,9,10,1,1.0,27,15,3.3,2.4,0.1,Social Media,6,9.0
+58,Akram Rahmouni,18,Female,Biskra,7th,5.4,7.0,90,9,0.2,10,10,1,1,1.3,47,17,4.7,1.0,0.8,Gaming,6,9.5
+59,Heythem Mostefaoui,17,Prefer not to say,Blida,9th,6.6,7.5,93,4,1.2,5,4,4,1,1.1,75,7,2.5,0.6,1.3,Education,5,5.7
+60,Tarek Madani,14,Male,Oued Chorfa,7th,5.6,4.1,80,3,1.5,9,9,9,0,1.7,42,19,2.6,3.6,0.9,Education,9,8.2
+61,Zohra Ben Messaoud,19,Female,Mahelma,8th,7.1,8.7,100,1,0.7,8,7,5,0,1.0,82,14,2.9,1.6,1.1,Education,7,5.8
+62,Fella Mokhtar,16,Male,Illizi,12th,3.2,6.7,81,8,0.8,1,8,8,1,0.5,75,6,3.8,0.8,1.5,Browsing,10,4.8
+63,Ahlem Bahri,15,Prefer not to say,Iboudrarene,12th,4.9,4.8,73,3,1.8,5,3,2,0,1.1,105,14,1.0,0.0,1.0,Education,8,4.2
+64,Sofian Lounes,19,Female,Khenchela,7th,5.6,4.7,98,10,0.9,5,5,4,0,0.8,108,16,4.2,3.0,0.4,Other,2,9.1
+65,Soha Nadjib,18,Female,Oued Zénati,7th,4.9,3.4,76,0,1.5,1,3,4,0,1.3,61,10,2.9,1.7,0.5,Other,1,4.4
+66,Mourad Ben Said,13,Female,Naama,8th,6.5,7.2,58,10,0.3,9,6,5,0,1.1,74,6,2.6,2.0,1.1,Gaming,9,8.7
+67,Aicha El Hachemi,19,Male,Ouled Moussa,8th,5.2,7.5,95,7,1.1,2,6,9,0,1.9,48,10,2.5,2.5,1.3,Gaming,1,1.3
+68,Fatiha Hamzaoui,13,Female,Djemila,11th,8.4,6.6,92,7,1.7,7,10,1,1,1.7,87,14,0.5,2.5,0.2,Social Media,3,8.4
+69,Hana Ghazi,16,Male,Staouéli,7th,7.0,6.8,77,9,0.0,10,6,9,0,0.6,140,10,3.4,1.4,1.1,Social Media,6,5.1
+70,Nour Laid,14,Male,Mohammadia,8th,8.9,5.8,61,1,0.9,8,7,5,1,0.6,79,20,3.4,1.4,0.3,Education,8,7.1
+71,Khadija Attia,18,Female,El Eulma,7th,4.1,7.2,66,4,0.6,9,6,10,0,0.0,125,11,1.0,3.7,0.0,Social Media,8,5.0
+72,Amin Laid,16,Male,Khraicia,12th,6.3,6.3,62,10,1.4,1,5,4,1,0.2,40,9,2.6,1.1,0.4,Other,3,3.5
+73,Melissa Kerroum,17,Prefer not to say,El Taref,9th,5.8,5.6,83,0,0.1,3,2,5,1,1.3,136,15,1.6,2.0,1.0,Education,1,6.8
+74,Nihel Trabelsi,19,Prefer not to say,El Bayadh,7th,3.2,3.6,72,1,0.0,4,2,3,1,1.5,57,8,3.9,2.1,1.0,Gaming,1,6.2
+75,El Hadi Zouaoui,16,Female,Idrissia,9th,5.1,8.1,90,5,1.3,6,10,8,1,1.5,103,15,3.4,3.2,1.5,Education,2,7.1
+76,Habiba Mecheri,13,Female,El Eulma,10th,4.0,10.0,56,2,1.9,5,5,9,1,0.2,83,6,2.3,0.7,1.3,Other,5,5.5
+77,Hamza Selmane,19,Prefer not to say,Lounassa,9th,2.1,7.3,71,7,0.5,4,1,4,1,1.7,54,9,2.5,1.5,1.6,Education,5,2.1
+78,Manel Larbi,17,Prefer not to say,Condé Smendou,8th,4.1,7.2,57,10,0.9,3,10,1,0,1.4,145,10,1.5,1.7,0.7,Gaming,7,6.7
+79,Yasine Zaoui,19,Male,Tizi Ouzou,10th,4.8,6.3,61,6,1.6,8,7,2,1,0.6,67,11,3.6,1.3,1.4,Gaming,5,8.4
+80,Hocine Cherif,19,Prefer not to say,Talkhamt,9th,4.4,8.7,88,1,0.3,10,4,1,1,1.1,150,20,3.2,0.1,0.8,Other,4,5.4
+81,Jaouad Saidane,19,Female,Sidi Mezghiche,12th,3.1,4.2,69,1,0.8,8,6,8,1,1.5,71,16,2.1,0.9,2.6,Social Media,7,12.0
+82,Rafik Messaoudi,14,Male,Souk Ahras,9th,3.0,5.6,95,8,2.1,5,5,2,1,0.6,53,12,3.3,2.0,0.5,Gaming,4,8.5
+83,Samira Ben Amor,13,Prefer not to say,Batna,12th,7.1,3.3,54,5,0.0,10,8,6,1,0.0,132,13,3.0,1.5,0.8,Other,2,5.9
+84,Riad Menad,16,Prefer not to say,Dar El Beïda,9th,4.9,8.5,70,5,0.3,2,6,10,1,0.5,76,15,2.7,1.3,1.7,Education,1,5.6
+85,Mehdi Abbas,13,Female,Bouira,10th,6.2,6.2,73,4,1.2,7,8,6,0,1.1,24,16,1.8,2.9,1.1,Browsing,5,9.0
+86,Riadh Messaoudi,13,Male,Taxlent,12th,3.9,5.8,50,4,0.2,2,1,6,1,0.3,146,11,3.7,1.4,0.7,Gaming,2,6.2
+87,Celia Zitouni,15,Female,Chlef,10th,4.4,4.3,93,0,1.9,1,4,9,0,1.1,28,18,3.0,1.3,0.8,Gaming,8,7.6
+88,Chahinez Bahri,19,Male,Aïn Bessem,11th,6.8,3.4,60,4,0.7,2,8,4,1,1.4,96,18,1.7,3.6,0.3,Social Media,6,4.7
+89,Heythem Hamoudi,16,Female,Tiaret,8th,2.7,6.9,55,9,0.7,6,8,6,1,2.1,139,13,1.6,2.9,0.9,Education,8,7.6
+90,Sofiane Djilali,19,Male,Zerdaza,11th,2.7,8.1,90,7,2.0,5,6,7,1,1.5,34,16,3.6,1.4,1.8,Education,2,7.7
+91,Saida Mokhtar,13,Female,Béjaïa,7th,3.1,4.3,65,1,0.8,10,10,10,1,1.5,150,17,2.3,1.9,2.0,Social Media,5,7.1
+92,Inas Ouled Said,14,Male,Timezrit,8th,3.6,9.1,69,9,1.9,1,3,6,0,1.2,26,18,2.6,0.1,0.0,Other,8,5.0
+93,Mehdi Dekkiche,14,Female,El Eulma,9th,7.3,6.2,87,8,0.2,1,9,5,0,0.0,64,12,3.1,1.1,2.1,Other,5,6.3
+94,Mansour Mecheri,14,Male,Menzel,9th,1.6,6.1,70,7,0.0,9,5,1,0,1.6,42,5,4.8,0.8,1.5,Social Media,3,1.8
+95,Zine Eddine Madani,14,Prefer not to say,Tichy,11th,6.4,6.4,77,8,1.0,2,7,2,0,0.8,148,10,2.3,1.9,0.5,Education,9,6.4
+96,Heythem Merabet,15,Male,Timizart,12th,9.4,4.1,72,8,0.4,10,8,1,0,1.2,109,12,1.4,2.7,1.3,Other,3,7.9
+97,Wafa Kaci,15,Female,Aïn Roua,8th,6.4,6.0,65,4,0.2,5,5,8,1,1.0,53,19,1.8,3.3,0.5,Gaming,9,6.9
+98,Youssef Ali,17,Male,Médéa,7th,4.6,8.4,93,7,0.8,9,5,1,0,0.6,25,8,2.9,1.1,1.3,Education,4,4.6
+99,Fethi Tebboune,18,Male,Tamanrasset,12th,4.4,6.6,95,3,1.1,8,1,3,1,0.6,91,15,2.2,1.6,0.8,Education,1,3.9
+100,Cherif Guerfi,18,Female,Tindouf,12th,3.3,5.0,60,7,1.0,9,4,10,1,0.9,36,14,1.1,1.0,1.3,Other,6,6.8
+101,Oumaima Merouane,13,Female,Naama,11th,7.5,5.7,70,8,0.9,4,10,5,0,1.4,52,13,1.4,1.4,1.0,Browsing,8,3.5
+102,Islam Gacemi,15,Female,Douera,11th,7.3,4.4,62,0,0.3,10,7,9,0,1.6,62,14,4.4,2.5,1.0,Other,8,9.1
+103,Zohra Ben Toumi,17,Female,Aït Rzine,10th,5.4,3.0,76,0,1.7,9,8,8,1,0.9,58,8,1.2,3.1,0.0,Gaming,9,4.3
+104,Zohra Larbi,19,Prefer not to say,Khenchela,10th,5.4,6.2,75,7,1.4,10,4,6,0,1.1,135,10,2.5,1.7,0.5,Other,3,3.3
+105,Heythem Zouaoui,19,Female,Salah Bouchaour,9th,3.8,5.2,80,1,0.4,2,4,3,1,0.9,71,6,1.7,2.5,0.3,Social Media,2,7.6
+106,Radia Mansouri,13,Prefer not to say,Constantine,12th,3.5,6.6,88,9,1.5,8,6,4,1,0.5,130,20,3.9,2.9,1.3,Social Media,10,5.5
+107,Ali Mansouri,13,Prefer not to say,Aït Aggouacha,10th,3.9,3.0,67,4,0.4,7,2,4,0,1.7,91,20,2.0,1.4,0.8,Browsing,7,7.8
+108,Abderrahmane Sifi,17,Male,Rahbat,12th,2.3,7.1,64,5,0.7,4,5,8,1,1.5,140,18,2.7,0.4,0.6,Other,1,4.5
+109,Zahia Toubal,16,Prefer not to say,Abi Youcef,11th,7.7,5.4,62,6,0.5,8,6,5,0,1.5,46,5,2.5,2.5,0.5,Education,10,3.8
+110,Shaima Bouzid,16,Prefer not to say,Gueddara,12th,3.3,5.8,83,0,0.0,1,6,3,0,1.0,147,16,1.9,0.3,1.9,Social Media,8,5.4
+111,Hafid Kaidi,14,Female,Issers,7th,7.4,6.7,75,5,0.0,7,4,6,0,1.2,28,16,2.5,1.8,1.4,Education,2,5.7
+112,El Hadi Ahmed,18,Male,Naama,10th,6.7,5.8,90,5,1.5,5,9,8,1,0.8,131,13,3.8,0.0,0.5,Education,3,7.5
+113,Youssra Cheikh,13,Male,Dar Chioukh,11th,6.9,6.2,89,4,1.1,3,2,7,1,0.3,140,13,3.0,1.9,0.7,Gaming,9,4.1
+114,Farid Zouaghi,15,Male,Mohammadia,9th,7.8,6.8,98,2,1.4,10,9,3,1,0.8,39,18,1.1,0.8,1.8,Gaming,8,6.0
+115,Zine Eddine Fekir,16,Prefer not to say,El Bayadh,9th,4.2,7.5,75,1,2.6,4,4,10,0,1.4,72,16,0.6,1.4,1.2,Gaming,1,4.4
+116,Ilyes Mecheri,18,Male,El Bayadh,8th,6.7,8.3,98,6,2.1,1,10,6,1,0.6,36,6,1.7,1.6,1.0,Gaming,3,2.8
+117,Youssra Ahmed,19,Female,Touggourt,7th,5.5,6.4,93,10,0.3,8,10,7,1,1.5,57,9,3.0,0.8,0.3,Education,4,9.9
+118,Wassila Ykhlef,16,Female,Biskra,9th,5.7,8.6,55,0,0.3,5,6,5,1,1.3,121,6,2.0,2.1,1.7,Other,4,4.4
+119,Noureddine Othmani,14,Prefer not to say,Bouira,7th,4.1,6.9,61,1,0.4,9,6,7,1,0.9,69,17,2.8,1.1,1.1,Gaming,4,8.6
+120,Ilyes Mansouri,14,Female,Béni Abbès,10th,3.1,5.3,97,9,1.3,2,4,7,0,0.1,21,7,2.7,0.1,0.5,Education,8,6.0
+121,Feriel El Hachemi,19,Female,Saharij,10th,5.3,5.9,53,5,0.4,6,9,6,0,0.4,35,17,1.0,2.0,0.2,Other,5,5.8
+122,Khaled El Fassi,13,Male,Aïn Defla,9th,3.5,5.0,97,4,1.1,9,2,5,0,1.6,34,5,1.1,1.6,1.5,Browsing,8,6.9
+123,Mansour Ben Toumi,18,Prefer not to say,Djasr Kasentina,11th,8.7,5.4,86,0,0.7,1,8,6,1,0.7,141,19,2.2,0.4,0.0,Education,4,5.2
+124,Adel Benabdallah,16,Male,Chéraga,8th,6.5,7.7,54,1,1.3,6,4,5,0,1.9,36,19,2.0,1.7,0.8,Education,6,5.5
+125,Hana Boutaleb,19,Female,Tissemsilt,9th,7.9,5.1,91,2,0.1,6,5,4,1,0.7,116,13,3.1,0.4,1.8,Browsing,10,3.5
+126,Anis Benfodil,15,Prefer not to say,Dély Ibrahim,9th,5.0,5.5,53,9,1.6,3,5,10,1,0.0,37,8,2.8,1.2,0.5,Gaming,10,9.2
+127,Hakim Cherif,18,Prefer not to say,Adrar,10th,3.4,4.4,85,7,0.2,9,7,7,0,0.0,51,20,2.6,0.0,2.0,Other,6,4.7
+128,Farid Dekkiche,14,Prefer not to say,Sidi Bel Abbès,8th,2.5,7.2,82,8,0.0,5,8,6,1,0.8,105,6,0.9,1.6,1.1,Browsing,7,9.9
+129,Meriem Nasri,14,Prefer not to say,Tagra,7th,4.1,3.6,100,8,0.8,10,4,4,1,0.6,31,17,1.5,1.7,0.9,Social Media,3,4.1
+130,Majid Benaissa,13,Prefer not to say,Tibane,7th,2.0,8.1,57,2,0.8,6,8,1,0,1.4,126,19,1.8,2.1,1.6,Gaming,1,5.6
+131,Imad Moussaoui,16,Male,Abadia,11th,6.3,6.7,89,3,0.9,6,7,9,0,0.8,129,9,1.8,2.7,1.0,Education,7,7.8
+132,Fatiha Ibrahim,19,Female,Ouargla,7th,8.1,6.9,78,4,0.0,4,1,4,0,0.2,103,12,1.7,1.2,0.4,Other,2,6.8
+133,Faysal Moussaoui,14,Prefer not to say,Idrissia,7th,3.3,8.2,72,5,1.5,9,8,7,1,0.6,67,15,2.7,2.3,0.7,Social Media,10,4.4
+134,Cherif Idir,16,Female,Tagra,11th,7.0,7.0,98,3,1.3,2,3,10,1,1.4,29,17,3.8,2.0,0.9,Social Media,6,8.1
+135,Yasmina Mohamed,19,Female,Skikda,10th,4.1,7.6,85,6,0.1,3,3,3,0,0.8,25,20,3.0,0.2,1.5,Other,3,7.7
+136,Okba Kamel,13,Prefer not to say,Ouargla,10th,7.3,7.6,59,3,2.2,6,5,3,1,1.8,141,18,2.4,1.0,0.6,Social Media,1,8.5
+137,Fawzi Benfodil,19,Male,Tadmaït,9th,5.3,4.4,85,7,2.0,9,3,3,0,1.6,49,14,2.4,1.4,1.0,Social Media,10,5.3
+138,Majid Zouaghi,18,Female,Gueddara,11th,6.8,10.0,98,7,1.7,7,8,3,1,1.7,72,16,2.4,1.0,2.0,Social Media,10,7.6
+139,Sabrina Kerroum,19,Male,Chlef,12th,6.7,5.9,79,7,0.0,2,9,7,1,0.2,130,17,2.2,2.1,0.2,Browsing,5,3.1
+140,Zineb Kerroum,13,Prefer not to say,Mila,9th,5.0,7.0,65,10,0.9,8,7,9,0,1.9,22,15,1.2,1.3,1.4,Education,7,5.8
+141,Nabil Kaci,19,Prefer not to say,Bougaa,10th,2.5,6.7,90,10,0.3,7,7,3,1,1.2,41,9,2.9,2.8,0.9,Education,10,9.1
+142,Kamal Touam,17,Female,Tagra,8th,5.4,7.5,57,10,0.0,4,2,2,1,0.4,80,20,2.5,0.4,1.6,Other,1,5.1
+143,Yasine Bahri,15,Female,Tizi Ouzou,8th,6.4,6.3,89,1,2.6,5,9,9,0,0.2,31,12,3.7,0.7,1.3,Other,7,4.4
+144,Nour Idir,14,Male,Aïn Oulmene,8th,2.6,6.1,86,5,1.9,5,7,2,0,1.5,24,7,3.6,1.8,1.2,Education,2,5.7
+145,Hassan Zerrouki,13,Prefer not to say,Laghouat,7th,4.3,7.4,72,8,0.6,3,4,9,0,1.5,32,16,4.1,0.9,1.0,Other,3,8.0
+146,Rayane Nadjib,18,Female,El Harrouch,7th,4.3,9.5,52,6,0.0,6,5,9,1,1.0,41,17,3.5,1.4,1.8,Education,6,6.5
+147,Zaki Khelifi,17,Female,Tamanrasset,7th,5.3,7.8,71,1,1.8,7,5,2,1,1.1,37,19,3.0,1.6,1.1,Gaming,10,6.5
+148,Faysal Ben Hamou,19,Prefer not to say,Djelfa,7th,5.4,5.4,88,0,1.1,10,9,9,1,1.5,61,17,1.0,2.1,1.8,Gaming,5,4.9
+149,Habiba Kadri,17,Female,Jijel,11th,4.5,8.8,74,3,1.6,10,10,5,0,0.9,44,20,1.4,1.6,1.7,Other,7,4.8
+150,Nesrine Zerrouki,16,Male,Dély Ibrahim,11th,4.7,5.1,91,3,0.7,4,6,7,0,1.6,23,16,3.9,3.3,0.8,Browsing,10,9.8
+151,Fatiha Ferhat,13,Male,Tissemsilt,7th,2.4,7.1,52,1,2.3,5,4,7,0,0.5,81,18,2.4,0.7,0.7,Browsing,1,3.5
+152,Hana Ali,13,Male,Timezrit,11th,6.4,7.7,51,7,0.5,9,2,6,0,0.1,146,20,2.0,3.6,0.7,Gaming,8,9.7
+153,Shahrazad Idir,13,Prefer not to say,Laïd Madjdoub,8th,5.2,6.0,87,0,0.8,1,5,8,1,1.6,79,11,4.2,0.0,1.2,Gaming,6,3.7
+154,Amine El Hachemi,19,Female,Souk Ahras,12th,5.7,8.0,96,1,0.9,3,4,2,1,1.5,65,20,3.3,2.7,1.9,Gaming,3,7.8
+155,Dalila Saidi,15,Female,Oran,11th,2.6,7.1,78,7,1.4,7,10,8,0,1.5,129,20,3.3,3.2,0.2,Other,3,8.1
+156,Samira Nasri,17,Female,Khenchela,12th,3.0,8.6,95,4,1.1,5,1,2,1,1.8,66,20,3.4,2.9,0.0,Social Media,6,2.5
+157,Chafik Mokhtar,19,Male,Aïn Oulmene,9th,4.4,5.9,82,10,2.3,1,10,5,1,1.5,94,15,2.0,1.4,1.4,Browsing,10,9.4
+158,Farid Rahmani,18,Prefer not to say,Mahelma,10th,5.3,8.9,98,4,0.0,7,2,1,1,0.9,59,10,2.5,0.5,1.5,Social Media,1,10.5
+159,Hanane Kamel,14,Male,Beni Oulbane,10th,6.3,8.1,51,2,1.4,5,3,4,0,1.0,76,6,4.2,0.0,0.6,Browsing,1,5.3
+160,Donia Mahdi,19,Female,Bordj Bou Arréridj,12th,5.1,6.9,59,8,0.0,6,7,8,1,1.6,51,19,2.0,1.7,1.2,Browsing,10,4.6
+161,Issam Touam,15,Male,Aït Rzine,11th,5.4,6.1,80,10,1.3,1,5,8,1,0.8,108,13,1.3,0.7,1.2,Gaming,6,1.4
+162,Lamia Ghazali,19,Prefer not to say,Les Eucalyptus,12th,6.9,6.5,70,9,1.7,1,3,6,1,0.7,67,20,1.9,0.0,2.7,Gaming,8,4.9
+163,Omar Benabdallah,17,Prefer not to say,Agouni Gueghrane,7th,3.7,8.3,57,0,2.8,10,2,9,0,1.3,26,13,3.2,0.1,0.6,Social Media,7,5.0
+164,Fatiha Mecheri,16,Male,Agouni Gueghrane,10th,8.3,5.7,98,8,0.9,3,9,10,0,1.4,83,7,4.5,0.0,0.8,Other,3,6.1
+165,Malika Mezouar,14,Prefer not to say,Ouled Lahcene,11th,3.0,4.7,85,2,1.7,8,10,7,1,0.4,125,18,2.5,0.7,0.7,Social Media,4,2.9
+166,Lamia Boussaada,18,Prefer not to say,M'Sila,10th,5.4,4.2,80,10,0.7,10,5,6,1,1.0,129,20,3.9,1.4,0.3,Education,3,5.3
+167,Yahia Zerrouki,15,Prefer not to say,Lounassa,9th,3.9,4.9,64,3,1.3,9,10,8,1,0.9,136,20,2.2,0.9,0.6,Education,2,5.0
+168,Yasine Mokhtar,18,Female,Ouled Djellal,7th,4.1,5.9,93,10,0.9,6,9,6,0,1.3,24,18,1.9,2.1,1.3,Education,2,8.4
+169,Donia Zouaghi,16,Male,Ghardaïa,9th,2.0,8.3,61,8,0.3,1,6,9,1,0.9,42,14,1.6,2.7,1.7,Other,8,5.2
+170,Adila Benfodil,14,Female,M'Sila,8th,6.6,5.1,93,10,0.4,2,3,3,1,0.4,117,7,2.9,3.0,1.5,Social Media,10,6.5
+171,Salah Cherif,13,Male,Ouargla,9th,3.2,5.5,52,4,0.1,4,4,8,1,1.1,47,11,3.4,1.5,1.2,Browsing,7,6.2
+172,Shaima Kaci,19,Female,Hamma Loulé,9th,7.9,8.5,96,6,0.1,5,2,4,1,1.0,58,9,2.2,1.9,1.3,Education,5,3.5
+173,amina Sifi,16,Female,Oued Chorfa,8th,10.5,8.0,97,10,2.2,7,9,8,0,1.0,128,16,1.9,0.0,0.9,Social Media,10,3.7
+174,Chaima Lakhdar,13,Male,Annaba,9th,5.4,6.2,50,1,1.8,5,7,10,1,0.8,79,13,2.2,0.6,2.3,Other,8,5.1
+175,Siham Benfodil,15,Female,Tamanrasset,12th,3.7,5.5,57,8,0.0,2,9,3,0,1.0,33,17,3.0,0.2,0.7,Gaming,7,3.6
+176,Farida Dekkiche,18,Male,Mahelma,7th,1.7,5.9,53,8,0.4,9,10,5,0,1.2,23,10,2.2,1.6,0.1,Education,1,5.2
+177,Zohra Lazem,14,Male,Saïda,10th,3.9,5.7,89,2,1.5,5,9,10,0,0.7,22,8,2.6,2.0,1.4,Browsing,6,6.8
+178,amina Mecheri,13,Male,Beni Messous,8th,3.3,7.6,55,0,0.0,4,2,6,0,1.2,47,15,2.8,0.0,0.6,Browsing,1,7.2
+179,Ghiles Rouibah,13,Female,El Oued,8th,5.9,3.8,81,4,2.0,10,7,9,1,0.6,129,10,1.4,1.9,1.1,Education,9,6.4
+180,Loubna Benabdallah,16,Male,Relizane,11th,4.1,6.4,74,6,0.4,5,10,9,0,1.0,116,18,1.4,0.4,0.3,Education,8,4.8
+181,Lotfi Yahiaoui,17,Prefer not to say,Mékhadma,10th,3.3,5.6,59,6,0.6,7,4,10,1,1.2,140,5,2.6,1.7,0.2,Education,9,1.8
+182,Nada Boussaada,14,Male,Sidi Bel Abbès,7th,4.2,8.1,85,9,2.3,5,2,9,1,0.9,85,17,2.7,3.0,0.8,Browsing,3,5.3
+183,Fatiha Ouahrani,19,Female,Aït Oumalou,7th,4.3,6.6,68,3,1.4,5,7,7,0,0.8,150,6,2.4,1.4,0.0,Gaming,3,9.8
+184,Saida Moussaoui,13,Female,Naama,8th,6.1,6.2,55,9,0.7,5,3,6,0,1.1,37,16,3.7,1.9,0.0,Other,8,7.4
+185,Khaled Kaci,18,Female,Timimoun,11th,5.4,5.0,90,6,0.0,2,5,4,1,1.4,59,19,1.8,0.2,1.3,Social Media,1,5.4
+186,Hassan Khelifa,15,Female,Aïn Soltane,12th,4.9,6.7,61,10,2.3,8,6,10,1,1.1,73,9,2.0,2.9,1.1,Other,9,2.6
+187,Nabil Bouterfa,17,Female,Semaoûn,7th,5.0,4.3,66,9,1.0,4,7,2,0,0.5,28,15,5.0,2.4,0.8,Browsing,7,6.9
+188,Warda Boutaleb,17,Prefer not to say,Laghouat,11th,6.5,6.0,64,10,0.0,4,5,1,1,1.1,50,6,3.0,1.6,0.2,Education,2,6.2
+189,Slimane Ouali,18,Prefer not to say,Tamokra,12th,1.7,7.2,86,9,0.1,10,9,3,0,0.4,58,15,2.5,1.9,0.4,Education,3,6.5
+190,Wassila Ziani,16,Male,Adrar,12th,6.0,6.6,84,6,0.2,9,10,5,0,1.9,110,10,2.5,0.1,0.1,Browsing,9,5.9
+191,Mohamed Tayebi,18,Male,Staouéli,7th,1.6,7.2,67,4,1.2,6,8,3,0,1.2,75,17,2.8,1.5,1.0,Social Media,1,3.8
+192,Saida Guerfi,13,Female,El Oued,9th,2.4,3.9,84,1,0.0,10,5,6,1,0.8,106,5,2.5,2.6,1.8,Browsing,7,8.8
+193,Zohir Baghdad,14,Male,Guelma,8th,4.3,9.3,93,9,0.0,4,3,2,0,1.5,106,18,3.6,0.0,1.0,Education,7,4.5
+194,Adel Djelloul,19,Male,Annaba,8th,5.6,3.9,89,5,1.5,3,3,4,1,1.0,100,19,3.5,2.1,0.0,Education,5,7.5
+195,Shaima Amara,14,Female,Bouira,11th,6.2,6.9,63,10,1.6,7,5,8,0,0.0,139,13,2.2,0.0,1.4,Other,1,5.0
+196,Rafik Ziani,18,Female,Aïn Témouchent,11th,1.4,7.4,55,5,1.3,9,2,3,1,0.9,73,19,1.9,0.5,0.4,Social Media,9,7.2
+197,Imad Ahmed,16,Female,Aïn Taghrout,9th,4.3,7.1,63,3,1.5,6,5,10,1,0.9,65,5,0.6,3.1,0.8,Other,7,2.4
+198,Zine Eddine Saidane,14,Male,Beni Zmenzer,11th,5.0,6.8,51,6,0.0,10,7,9,0,0.4,150,9,1.7,0.6,0.7,Other,1,5.9
+199,Radia Ali,18,Male,Tadmaït,9th,7.3,6.4,51,5,0.0,1,9,6,0,1.3,52,19,3.1,2.9,2.8,Other,10,9.8
+200,Lakhdar Benziane,14,Male,Tizi Ouzou,12th,1.3,5.4,70,5,0.8,9,3,10,0,0.8,133,6,2.3,2.6,1.6,Browsing,7,5.8
+201,Salma Hadj,18,Prefer not to say,Tlemcen,10th,4.0,8.8,71,8,0.7,10,5,4,0,1.0,120,16,1.7,3.7,0.9,Other,3,5.6
+202,Ali Cheikh,14,Male,Tamanrasset,8th,6.2,6.7,57,1,0.6,5,9,1,0,1.6,71,19,2.2,0.8,1.6,Gaming,6,6.9
+203,Yahia Henni,15,Prefer not to say,Souk Ahras,8th,7.1,7.8,74,3,0.6,4,3,9,1,1.2,87,8,0.0,1.9,0.0,Education,9,8.6
+204,Majid Nacer,13,Prefer not to say,Ouadhias,9th,1.8,4.1,98,2,1.3,9,6,9,1,0.5,49,6,2.6,1.9,0.8,Other,5,7.8
+205,Lamia Bahri,14,Male,Chabet el Ameur,11th,6.2,5.8,53,2,0.0,3,6,5,0,1.7,109,19,2.1,1.9,1.1,Other,5,4.3
+206,Zine Eddine Hadj,18,Female,Tiaret,11th,4.8,6.5,56,7,1.0,3,8,9,0,1.9,118,12,2.6,2.1,0.5,Other,7,6.0
+207,Farid Zitouni,19,Male,Khraicia,12th,5.5,7.1,86,10,1.4,9,6,7,1,1.3,72,17,4.2,2.7,1.5,Other,3,5.5
+208,Ouahiba Messaoud,17,Female,Draria,7th,5.6,9.7,95,4,0.0,8,5,4,0,1.3,128,5,0.2,1.9,0.3,Social Media,2,8.3
+209,El Hadi Lakhdar,18,Male,Skikda,7th,5.0,6.1,70,9,1.1,8,5,6,1,0.6,93,15,2.9,1.6,0.8,Social Media,8,6.8
+210,Soha Aissaoui,15,Female,Draâ Ben Khedda,12th,6.2,4.6,72,5,1.7,6,9,4,0,1.4,32,7,1.5,1.0,0.0,Other,6,6.8
+211,Mahmoud Ghazi,14,Prefer not to say,In Salah,10th,2.5,6.2,50,2,0.6,2,6,6,1,1.2,32,17,3.5,1.0,1.2,Education,9,5.1
+212,Naima Ben Hamou,16,Female,Dély Ibrahim,7th,5.8,7.3,67,7,1.2,10,1,7,0,1.4,140,5,2.2,0.0,0.8,Other,6,6.2
+213,Aicha Djaballah,19,Male,Biskra,10th,2.9,7.6,74,0,1.3,10,2,10,0,1.2,48,6,2.8,2.1,0.4,Education,8,3.5
+214,Dounia Fetouni,14,Male,Rahbat,9th,2.3,5.5,74,5,0.0,7,8,8,1,0.8,78,19,1.2,1.6,2.3,Browsing,4,7.3
+215,Hocine Zouaghi,15,Prefer not to say,Tamokra,9th,2.0,6.9,87,9,0.4,1,4,6,0,1.1,33,17,2.1,2.8,1.3,Gaming,8,9.0
+216,Lina Ibrahim,19,Female,Tissemsilt,12th,6.1,4.2,92,7,1.3,4,6,8,0,1.2,30,12,2.1,2.4,1.7,Social Media,4,6.7
+217,Zohir Ouahrani,14,Male,Gueddara,12th,3.7,5.3,64,8,0.6,2,4,1,1,0.8,139,7,2.5,0.7,0.9,Education,3,7.3
+218,Ghiles Fekir,19,Female,Mostaganem,10th,4.9,7.1,59,0,1.4,10,2,3,0,1.1,115,19,2.7,2.4,0.5,Browsing,5,6.9
+219,Zohir Zerrouki,13,Prefer not to say,Sétif,12th,4.2,7.0,53,1,0.7,1,6,6,1,0.4,85,18,3.1,0.5,1.1,Gaming,6,5.3
+220,Lotfi Chaoui,13,Prefer not to say,Blida,7th,3.0,10.0,84,3,1.9,8,2,3,1,1.4,119,19,2.6,0.5,1.1,Education,8,9.5
+221,Dalila Rabhi,16,Prefer not to say,Ouled Fayet,8th,8.3,5.5,74,7,2.3,5,3,9,1,1.1,81,20,3.0,1.4,0.8,Browsing,8,9.9
+222,Azzedine Si Ali,15,Male,Oued Chorfa,9th,3.9,7.6,85,10,0.3,2,1,9,1,0.4,115,12,2.7,1.4,0.8,Browsing,2,5.7
+223,Nawal Salhi,14,Male,Djendel,9th,5.5,8.3,84,7,0.9,10,7,2,0,1.1,133,20,2.8,2.4,0.0,Other,4,7.5
+224,Malika Boutaleb,15,Female,Djendel,7th,6.9,5.6,94,6,1.2,8,3,10,0,1.2,113,8,1.2,1.8,0.3,Browsing,8,5.4
+225,Habiba Iles,13,Male,El Main,11th,4.2,4.2,70,2,0.0,10,2,10,0,1.5,80,14,2.4,0.0,1.1,Other,4,4.6
+226,Nour Nacer,18,Male,Tamanrasset,10th,6.5,5.5,64,5,0.0,6,10,5,1,0.0,67,14,2.4,0.3,0.6,Education,5,4.7
+227,Asma Gacemi,14,Prefer not to say,Tébessa,9th,4.3,6.7,72,8,0.9,4,7,8,0,0.9,92,17,2.4,0.8,0.8,Gaming,7,6.6
+228,Sid Ahmed Sifi,13,Female,Djemila,9th,3.9,5.8,66,5,1.4,5,5,8,0,0.6,119,15,1.1,0.8,1.8,Education,1,5.8
+229,Mounir Benabdallah,13,Prefer not to say,Aït Idjir,8th,7.7,9.2,55,2,0.9,10,1,5,0,1.0,134,9,2.6,3.0,1.6,Other,1,7.2
+230,Riadh Benhadj,18,Female,Mostaganem,12th,7.1,6.4,64,9,0.1,5,5,10,0,1.3,54,15,1.9,1.8,0.8,Gaming,2,4.8
+231,Riadh Ali,16,Male,Aïn Sebt,9th,3.0,7.8,62,4,0.0,2,7,6,1,0.6,36,14,1.7,2.0,0.6,Browsing,8,10.6
+232,Chaima Dekkiche,19,Male,Ouled Fayet,7th,6.4,6.3,68,5,0.8,4,2,10,0,1.8,26,14,1.9,1.2,0.2,Gaming,6,7.7
+233,Dounia Djaballah,15,Male,El Eulma,11th,3.9,6.8,67,8,1.0,3,3,10,1,2.0,108,5,3.0,0.0,0.9,Education,9,5.5
+234,Ilyes Idir,19,Female,Tlemcen,10th,2.5,5.6,87,9,0.7,8,5,3,0,1.6,90,12,3.4,1.4,1.2,Browsing,2,6.9
+235,Wissam Toumi,16,Male,El Hachimia,11th,3.8,8.8,55,10,0.8,9,1,7,1,0.5,83,15,3.4,1.8,0.0,Social Media,5,7.5
+236,Nabil Zouaoui,16,Male,In Salah,7th,2.6,5.5,52,2,1.8,10,7,9,0,1.2,29,19,2.9,2.5,0.7,Browsing,2,2.9
+237,Imad Boutaleb,18,Female,Rouiba,11th,5.0,8.5,99,4,0.0,5,2,6,0,0.0,134,15,4.1,1.3,1.2,Education,1,6.0
+238,Yasmina Messaoud,17,Male,Rouina,11th,3.9,8.4,97,3,0.5,1,7,8,0,1.2,66,13,4.3,1.6,1.0,Education,6,4.9
+239,Camila Kaidi,18,Male,Oued Zénati,9th,4.2,7.3,64,2,0.0,6,9,10,0,0.0,37,13,2.1,0.0,0.9,Browsing,8,4.0
+240,Aicha Kaidi,19,Female,Dar El Beïda,11th,6.2,4.8,62,8,1.1,9,1,2,1,0.5,45,11,2.7,0.7,0.8,Other,5,6.8
+241,Nabil Daoudi,13,Prefer not to say,Bab El Oued,12th,4.0,4.8,82,8,0.0,10,10,1,1,0.7,23,18,2.4,1.0,0.3,Other,7,6.4
+242,Azzedine Benali,13,Male,Guelma,7th,6.1,7.0,79,3,0.0,5,6,1,1,1.4,150,9,4.1,0.8,1.6,Social Media,9,10.2
+243,Radia Moussaoui,19,Female,Naama,8th,7.6,6.5,62,6,0.4,8,1,1,0,1.2,52,13,2.2,1.2,0.7,Social Media,1,6.6
+244,Sonia Ykhlef,14,Male,Bougaa,10th,2.4,5.2,86,4,0.8,4,6,3,0,0.8,96,13,2.1,3.7,0.5,Education,5,11.2
+245,Habiba Djaballah,13,Male,Sidi Khelifa,12th,1.7,4.3,81,8,0.9,3,6,2,1,0.7,126,13,2.4,0.3,0.0,Social Media,6,3.6
+246,Zineb Zaoui,15,Prefer not to say,Aïn Defla,9th,3.9,6.8,52,5,0.0,10,6,8,1,1.6,82,16,0.6,1.5,0.0,Other,6,5.2
+247,Issra Ykhlef,19,Female,Biskra,11th,9.5,6.9,79,10,0.3,8,9,8,1,1.9,137,20,2.9,2.7,0.2,Social Media,5,6.6
+248,Rayane Sellami,18,Male,Talkhamt,9th,4.7,5.9,61,10,0.1,10,4,2,0,2.0,95,12,3.3,2.4,0.6,Social Media,3,5.1
+249,Feryel Adjal,17,Male,M'Sila,12th,7.6,4.0,51,0,0.3,8,6,9,0,0.3,101,7,1.4,3.0,0.9,Gaming,6,5.0
+250,Imad El Fassi,15,Female,Chellata,8th,6.4,5.7,50,10,0.3,5,10,4,1,0.8,117,18,3.1,2.8,2.0,Other,1,1.9
+251,Saida Djaballah,13,Male,Reghaïa,10th,8.0,5.6,66,9,0.6,2,3,8,0,1.0,143,18,2.7,1.2,0.0,Gaming,7,8.8
+252,Alaa Eddine Benabdallah,17,Female,Oued Koriche,11th,6.7,6.0,60,8,1.9,7,8,4,1,1.7,36,10,2.5,2.2,2.1,Browsing,1,6.8
+253,Asma Kerroum,15,Male,Bougaa,8th,4.7,6.3,65,9,0.1,7,9,8,1,0.4,113,11,3.2,0.8,0.1,Education,3,5.6
+254,Samar Ben Hamou,17,Male,Blida,12th,8.4,6.1,54,0,1.2,3,2,3,1,0.8,94,19,1.8,0.2,1.4,Education,8,2.2
+255,Soha Bousmaha,17,Prefer not to say,Tébessa,9th,6.8,6.3,89,1,0.0,9,5,4,1,1.1,67,6,4.0,0.0,2.1,Social Media,3,5.6
+256,Lamia Khaldi,18,Male,T’Kout,10th,4.9,7.0,94,3,1.3,6,9,8,0,0.6,109,13,2.3,0.0,0.0,Gaming,6,5.4
+257,Wissam Ben Hamou,15,Female,Lakhdaria,12th,10.2,7.2,95,1,0.4,2,8,4,0,1.2,53,7,3.5,0.1,0.3,Other,8,5.7
+258,Walid Messaoud,17,Female,Béni Abbès,7th,6.2,7.0,59,1,1.4,2,1,1,0,1.3,84,19,2.4,2.0,2.6,Browsing,5,9.6
+259,Soraya Ali,16,Prefer not to say,Tessaout,8th,5.6,6.9,96,8,0.5,10,1,1,0,1.2,87,17,3.7,0.3,0.8,Education,10,6.5
+260,Yasmine Ben Messaoud,19,Prefer not to say,El Attaf,11th,7.1,3.8,91,7,1.4,7,4,10,0,1.3,67,5,2.7,1.2,1.0,Education,1,4.1
+261,Soraya Kadri,16,Male,Blida,9th,6.0,8.9,80,10,1.8,8,5,3,1,1.2,49,14,3.2,1.5,0.4,Gaming,10,6.2
+262,Manel Charef,18,Prefer not to say,Rouiba,10th,3.7,7.1,64,0,1.4,3,10,5,0,0.9,148,16,2.1,2.8,1.7,Browsing,7,6.2
+263,Ali Idir,14,Female,Sidi Khelifa,9th,3.3,8.8,91,10,1.4,1,3,10,1,1.7,114,5,3.5,0.4,0.8,Gaming,1,8.0
+264,Sofiane Benaissa,13,Male,Bouderbala,9th,3.7,4.2,85,7,1.7,7,2,10,0,2.0,132,6,1.4,1.1,0.1,Browsing,9,2.0
+265,Sirine Nacer,19,Female,Sidi Moussa,8th,8.2,6.9,70,1,0.8,8,5,9,0,0.9,62,7,2.9,1.7,1.5,Education,5,4.4
+266,Juba Benhadj,15,Male,Chlef,11th,3.4,6.9,52,0,0.7,6,5,10,0,0.8,109,8,3.6,2.0,0.5,Education,6,8.1
+267,Majda El Fassi,18,Prefer not to say,Béchar,9th,5.8,5.5,88,7,0.9,9,10,6,0,0.6,85,18,1.7,0.1,1.7,Education,4,5.7
+268,Inas Chabane,17,Prefer not to say,Oran,7th,3.3,7.2,89,2,1.7,8,9,6,1,0.5,98,18,1.9,1.6,1.2,Gaming,7,7.5
+269,Inas Benmokhtar,13,Prefer not to say,Tindouf,11th,2.4,5.6,79,10,1.5,5,2,3,1,0.4,34,12,1.4,3.8,1.1,Gaming,5,5.9
+270,Soraya Khammar,19,Female,Djasr Kasentina,9th,4.2,7.4,98,2,1.3,10,1,8,0,0.3,65,5,3.2,1.9,1.0,Education,7,14.0
+271,Jaouad Slimani,13,Male,Khenchela,12th,5.6,6.6,51,4,1.1,3,1,2,1,1.6,122,11,2.1,1.7,1.3,Education,1,6.9
+272,Lyes Maouche,16,Male,Sidi Bel Abbès,10th,2.5,10.0,60,5,1.4,7,10,9,0,0.6,133,17,2.9,1.5,0.1,Gaming,6,6.1
+273,Juba Zaoui,13,Male,Amoucha,8th,8.3,5.6,51,3,0.7,3,4,6,1,1.0,110,20,3.9,2.0,1.6,Education,2,9.0
+274,Slimane Messaoudi,19,Male,El Taref,7th,4.7,7.8,69,8,1.0,1,1,1,1,0.7,27,7,3.0,3.2,1.5,Social Media,10,3.8
+275,Sarah Ghazi,14,Female,El Oued,9th,3.5,5.1,82,0,1.6,5,2,5,0,1.4,64,11,1.1,2.2,0.5,Browsing,5,8.1
+276,Meriem Toumi,18,Female,Bousaada,10th,4.3,9.0,58,0,0.8,7,3,3,1,1.1,70,20,1.7,0.3,1.1,Browsing,3,7.1
+277,Malika Bouziane,19,Female,Oran,11th,6.6,6.9,83,8,0.0,4,8,3,1,1.2,40,10,3.4,1.8,1.4,Browsing,8,1.6
+278,Heythem Attia,14,Prefer not to say,Sidi Mezghiche,12th,3.7,8.3,93,7,0.8,9,5,1,0,1.5,28,9,4.1,0.2,2.6,Gaming,5,3.7
+279,Feryel Aissaoui,13,Prefer not to say,Kadira,11th,6.9,6.9,70,3,1.6,2,1,9,0,1.2,69,9,1.9,1.7,0.0,Social Media,1,6.4
+280,Hana Bouzid,18,Male,Ouled Sidi Brahim,9th,4.4,6.6,63,7,0.0,10,10,5,1,0.3,136,6,3.1,3.5,0.0,Browsing,4,5.4
+281,Djamel Messaoudi,15,Male,El M'Ghair,9th,5.6,5.3,73,5,0.6,5,4,9,1,2.0,100,9,2.7,0.0,1.1,Social Media,1,7.8
+282,Zahia Attia,19,Male,Bordj Baji Mokhtar,7th,1.2,6.9,75,3,0.9,9,5,9,0,1.6,135,10,3.0,1.6,1.0,Other,8,3.8
+283,Tayeb Henni,14,Female,In Salah,7th,3.6,7.2,85,5,0.0,1,5,6,1,1.0,109,15,2.9,1.2,2.3,Gaming,3,7.5
+284,Loubna Bendjebbar,13,Prefer not to say,Nzala,11th,1.6,6.0,75,9,1.0,8,4,4,0,0.3,62,17,1.7,1.2,0.9,Education,10,4.1
+285,Majda Mostefaoui,19,Prefer not to say,Chlef,12th,4.8,7.1,50,5,0.7,8,9,7,1,1.4,108,17,2.0,0.7,1.2,Education,2,6.0
+286,Djamel Abbas,13,Female,In Guezzam,7th,5.7,6.2,98,8,0.8,1,7,10,0,1.0,26,16,2.6,1.9,1.3,Social Media,5,4.2
+287,Oumaima Dekkiche,17,Male,Tindouf,11th,7.8,6.7,81,8,1.6,2,2,7,1,0.7,36,10,2.7,0.6,0.8,Education,8,6.1
+288,Adel Toubal,13,Prefer not to say,Ouled Sidi Brahim,11th,5.2,7.0,65,1,2.7,5,7,3,1,0.8,22,7,1.8,3.2,0.0,Browsing,4,6.4
+289,Kais Kamel,19,Female,Tamanrasset,8th,8.5,7.5,98,2,0.6,8,8,1,1,1.5,73,12,1.0,1.0,0.3,Other,4,5.5
+290,Kais Sahraoui,19,Prefer not to say,Jijel,9th,5.4,4.9,68,10,1.2,1,2,6,1,0.6,127,12,3.4,1.1,2.4,Other,3,3.3
+291,Karim Adjal,16,Male,Mila,11th,4.5,6.1,77,7,0.0,5,9,7,1,1.1,114,17,2.4,1.6,1.4,Education,6,5.7
+292,Nesrine Khaldi,14,Male,Bouzareah,11th,8.1,7.2,91,6,1.4,8,7,8,1,0.3,120,13,1.4,2.2,1.9,Education,9,6.0
+293,Jaouad Nacer,14,Male,Beni Oulbane,11th,6.5,7.9,93,10,1.7,9,4,1,1,0.6,113,8,4.3,2.5,0.7,Browsing,10,7.1
+294,Tayeb Khammar,16,Male,Chlef,12th,5.3,3.2,74,8,0.8,9,4,4,1,1.1,69,13,1.2,1.1,1.4,Social Media,1,5.7
+295,Malik Cherif,18,Male,Ouled Lahcene,8th,4.3,9.2,68,9,0.4,8,9,6,1,1.0,96,16,1.5,1.8,1.7,Social Media,4,4.3
+296,Shahrazad Mokhtar,16,Female,Touggourt,9th,0.6,5.7,72,7,0.5,7,2,7,0,1.8,26,7,4.4,2.0,1.0,Social Media,5,4.5
+297,Samira Ayachi,13,Female,Laghouat,7th,3.0,6.2,72,7,1.4,6,3,8,0,0.0,69,15,3.3,1.2,1.8,Browsing,7,3.6
+298,Kais Madani,19,Prefer not to say,Bouzina,8th,6.2,4.5,100,9,1.8,3,6,3,1,2.1,135,10,2.2,0.6,0.0,Browsing,3,8.4
+299,Siham Djaout,13,Female,Aïn Tesra,7th,2.9,8.3,50,1,0.0,6,4,2,1,0.7,53,18,2.7,2.9,1.0,Other,1,3.7
+300,Rami Khelifa,18,Female,T’Kout,11th,4.6,9.4,55,2,0.8,2,4,5,1,1.1,113,7,1.6,1.7,1.6,Education,4,8.6
+301,Youssra Ziani,13,Female,El Hachimia,7th,6.7,5.2,75,6,2.0,8,4,7,0,0.1,122,16,2.6,1.7,0.5,Other,4,4.2
+302,Omar Yahiaoui,17,Male,Reghaïa,11th,7.8,6.6,85,8,2.3,1,4,3,0,1.7,148,16,3.1,3.0,1.8,Other,2,6.9
+303,Reda Benali,19,Female,Ben Mehidi,11th,3.7,7.3,97,4,0.7,7,9,1,0,1.5,147,14,3.0,1.1,1.2,Education,4,7.1
+304,Adel Ouled Said,15,Male,Dar Chioukh,12th,1.8,6.6,56,10,0.7,2,7,7,1,0.7,100,18,4.9,1.4,0.3,Education,7,2.4
+305,Ali Ouattara,15,Prefer not to say,Bouira,8th,5.0,4.1,54,7,0.0,1,8,5,1,1.6,136,18,2.8,2.5,0.1,Browsing,6,6.4
+306,Salma Zouaoui,13,Female,Aïn Roua,9th,5.3,5.4,73,4,1.9,1,8,10,1,1.2,137,18,1.0,3.8,0.6,Social Media,10,6.2
+307,Rahma Meftah,16,Male,Ghardaïa,8th,5.8,7.2,88,5,1.0,9,9,2,0,0.7,30,15,2.6,0.7,0.5,Browsing,10,9.7
+308,Souad Ben Amor,17,Female,Tébessa,12th,4.2,4.1,74,4,1.1,10,6,1,0,0.6,131,11,2.4,1.5,1.1,Browsing,6,12.4
+309,Ilyes Touati,14,Prefer not to say,Ouled Djellal,7th,10.3,7.3,51,4,2.8,4,10,7,1,0.9,91,14,3.9,2.3,0.0,Browsing,2,11.0
+310,Soufiane Sifi,16,Prefer not to say,Talkhamt,12th,8.0,7.5,83,0,0.0,8,7,4,1,1.2,131,7,3.9,0.2,1.2,Education,3,9.4
+311,Ahlem Djaout,16,Female,Oued El Berdi,10th,8.0,8.5,51,5,1.5,8,7,6,0,0.3,68,14,1.7,1.7,1.4,Browsing,9,9.0
+312,Lyes Kaidi,16,Female,Tindouf,7th,4.0,5.1,79,10,0.9,8,9,1,1,2.0,81,17,2.5,2.0,1.0,Gaming,2,6.0
+313,Racha Arar,19,Male,Tissemsilt,8th,5.7,8.9,66,7,2.5,6,1,5,0,1.4,34,17,3.3,3.1,0.4,Browsing,7,4.4
+314,Yasine Djaout,16,Prefer not to say,El Biar,12th,1.5,5.7,55,8,0.7,8,4,4,0,1.2,48,19,2.0,1.4,0.6,Other,3,5.5
+315,Mustapha Merouane,18,Prefer not to say,Chorfa,11th,4.7,6.4,97,6,0.6,7,5,1,1,1.0,36,18,2.2,2.5,0.0,Social Media,5,2.9
+316,Ahlem Kaci,15,Female,Ouled Fayet,12th,2.9,5.5,71,1,1.1,9,2,1,1,0.9,117,10,2.0,1.6,1.3,Gaming,7,4.6
+317,Salma Khaldi,15,Female,Témacine,12th,4.5,7.2,56,5,2.2,8,6,3,0,0.8,21,9,1.4,1.9,2.4,Gaming,10,9.4
+318,Fateh Bachiri,15,Prefer not to say,Yatafen,11th,2.7,4.1,73,5,1.6,10,7,8,1,0.8,56,13,1.9,1.5,0.1,Browsing,4,5.9
+319,Yassin Mahdi,14,Female,Tala Ifacene,9th,7.3,3.7,52,0,0.5,2,9,5,0,1.3,66,6,3.0,3.1,0.0,Browsing,2,5.5
+320,Nihel Hamoudi,15,Female,Ouadhias,12th,4.6,7.4,60,2,0.0,3,9,4,1,0.3,150,6,3.6,2.5,1.9,Social Media,4,3.7
+321,Nihel Meliani,15,Prefer not to say,El Taref,11th,3.7,7.2,66,3,0.0,7,7,7,0,1.4,141,12,4.4,2.9,2.0,Browsing,5,4.1
+322,Zakaria Lounes,16,Female,Bougaa,11th,7.1,3.0,56,6,0.0,1,4,1,1,1.4,116,18,2.2,2.3,2.1,Other,5,4.1
+323,Kenza Dris,14,Prefer not to say,Skikda,12th,9.1,7.4,75,1,0.4,8,8,3,1,0.8,76,8,2.2,2.4,0.7,Education,1,9.9
+324,Nadia Benali,13,Prefer not to say,Les Eucalyptus,12th,4.4,5.4,69,9,0.9,2,8,1,1,1.2,142,18,3.4,1.6,1.1,Browsing,9,6.6
+325,Jawaher Younsi,19,Prefer not to say,Béni Abbès,10th,3.0,6.1,77,8,0.4,9,5,7,1,0.6,141,13,1.9,2.6,0.6,Gaming,10,3.1
+326,Rafik Bouteldja,17,Male,Ouaguenoun,9th,4.6,4.0,52,5,1.5,1,2,7,1,0.7,40,16,1.7,0.9,0.4,Social Media,6,6.8
+327,Ayoub Nasri,14,Male,Mila,10th,8.9,6.5,75,0,0.8,5,9,1,1,0.5,64,20,3.8,1.3,1.5,Other,2,8.4
+328,Ahlem Menad,13,Female,El Bayadh,9th,4.9,7.2,56,7,0.5,10,10,8,1,1.1,42,17,2.8,1.1,2.4,Social Media,1,6.7
+329,Ilyes Bessa,15,Male,Medjana,10th,7.5,10.0,71,3,0.6,4,4,8,1,0.4,109,12,0.8,1.3,2.8,Other,1,10.0
+330,Djamel Brahimi,14,Female,Tissemsilt,10th,7.3,7.0,87,5,0.0,2,2,8,0,0.5,35,8,1.9,3.3,3.0,Browsing,6,6.5
+331,Nour Fetouni,16,Female,Aïn Bouziane,8th,4.5,8.7,57,9,0.3,9,8,1,0,0.4,147,10,1.0,0.9,0.3,Other,5,2.8
+332,Mansour Rabhi,19,Male,Laghouat,8th,3.0,6.8,77,7,1.7,10,5,7,0,1.3,119,8,3.4,1.9,0.2,Gaming,7,3.6
+333,Yasmine Trabelsi,13,Male,El Kantara,10th,3.7,5.8,67,8,1.5,8,1,5,0,1.0,60,20,2.7,1.0,1.5,Social Media,10,8.6
+334,Fella Merabet,17,Male,Béni Abbès,7th,5.3,8.4,67,10,0.7,9,4,8,1,0.5,70,18,3.4,0.9,0.7,Education,10,4.9
+335,Farida Othmani,19,Prefer not to say,Birine,7th,6.4,5.0,90,7,0.8,8,4,1,0,0.8,121,16,1.8,1.0,1.9,Other,5,7.5
+336,Hassan Benabdallah,15,Prefer not to say,Oran,7th,5.7,7.7,51,6,1.9,4,3,2,1,1.2,121,9,1.7,0.7,0.7,Social Media,6,2.0
+337,Adel Djelali,17,Prefer not to say,Tissemsilt,12th,5.9,6.6,54,10,1.6,10,10,6,1,1.1,29,12,2.2,0.0,0.2,Gaming,5,3.5
+338,Ahmed Touati,17,Female,Ouled Fayet,10th,6.6,8.1,77,7,1.0,6,1,3,1,1.5,147,14,2.0,1.7,1.6,Education,8,9.2
+339,Ayoub Moussaoui,15,Prefer not to say,Beni Messous,12th,5.3,4.7,82,1,0.7,10,1,5,1,0.0,141,14,1.2,0.4,2.1,Other,8,6.0
+340,Souad Bousmaha,17,Female,Aïn Sebt,8th,3.5,10.0,50,5,0.0,7,10,7,0,1.0,50,11,1.9,0.8,0.6,Education,7,4.3
+341,Rabah Menad,18,Prefer not to say,Ouyoun El Assafs,12th,4.1,5.7,79,1,0.6,5,9,3,1,1.0,108,19,1.2,0.4,1.3,Social Media,9,4.6
+342,Zakaria Chaoui,15,Prefer not to say,Dar El Beïda,10th,6.2,5.1,87,3,1.7,6,2,1,1,0.6,101,16,2.8,3.1,0.5,Other,9,7.2
+343,Lina Sahraoui,13,Male,Birkhadem,9th,8.9,7.0,90,0,0.6,4,9,3,1,1.0,110,10,3.4,0.8,1.2,Browsing,2,5.8
+344,Mansour Slimani,17,Prefer not to say,Biskra,8th,6.6,5.4,91,6,1.4,6,6,7,1,1.3,137,17,0.2,2.0,1.8,Other,8,10.0
+345,Fella Akroum,18,Prefer not to say,Berrihane,12th,7.4,7.4,80,0,1.1,1,2,3,0,1.9,57,20,1.9,0.9,1.6,Gaming,10,4.6
+346,Fethi Rabhi,19,Male,El Oued,10th,2.6,7.5,83,10,1.4,10,9,7,1,0.5,24,5,2.5,1.1,0.5,Education,2,6.5
+347,Najia Ghazali,18,Female,Blida,10th,4.4,6.1,85,4,0.0,4,2,2,0,0.2,79,11,2.8,1.6,1.1,Gaming,4,2.7
+348,Lakhdar Lakhdar,18,Female,Tamanrasset,11th,5.7,9.0,61,4,1.3,9,7,6,0,0.1,133,9,4.4,1.8,0.1,Social Media,1,6.0
+349,Azzedine Ahmed,13,Male,Bazer Sakhra,10th,5.1,7.0,75,10,0.2,8,5,9,1,0.9,68,9,2.0,1.0,0.5,Social Media,5,7.0
+350,Jaouad Ayachi,19,Female,El Hachimia,7th,4.8,4.8,59,0,0.8,7,1,5,0,0.5,55,13,2.0,1.2,1.5,Other,7,3.3
+351,Adila Boussaada,16,Male,Saïda,8th,4.3,7.0,60,10,2.4,7,2,5,1,0.8,144,15,2.9,0.7,1.4,Social Media,3,3.1
+352,Riadh Moussaoui,17,Female,Annaba,9th,5.0,8.9,78,9,0.5,7,1,10,1,1.1,147,13,2.4,1.7,1.8,Education,5,6.3
+353,Sabah Nasri,16,Female,Bousaada,10th,3.2,5.9,79,3,1.9,6,3,2,0,1.5,33,17,3.2,1.4,2.0,Education,5,5.9
+354,Issam Dekkiche,18,Prefer not to say,Biskra,7th,2.6,6.1,96,6,1.7,6,10,3,1,1.0,76,8,1.0,0.0,0.3,Gaming,4,7.1
+355,Djallel Ouahrani,13,Prefer not to say,Salah Bouchaour,9th,4.8,6.4,99,0,0.5,1,4,9,1,1.1,143,12,2.2,1.5,0.7,Other,8,5.5
+356,Racha El Hachemi,19,Male,El M'Ghair,8th,8.6,6.6,78,10,0.9,2,8,6,1,1.1,108,16,2.1,2.2,0.7,Browsing,6,4.6
+357,Siham Ykhlef,18,Female,Djebahia,9th,7.2,8.1,78,10,0.8,10,6,7,0,0.4,86,9,0.6,3.1,1.3,Social Media,10,9.3
+358,Zahra Sellami,18,Prefer not to say,El M'Ghair,10th,6.1,3.0,61,8,1.8,3,7,8,1,1.1,45,14,2.8,0.0,0.9,Gaming,4,4.5
+359,Kahina Bousmaha,15,Female,Rahbat,12th,5.9,5.3,63,5,0.7,6,3,7,0,0.4,99,5,3.6,0.3,0.5,Gaming,9,6.5
+360,Adila Djelali,15,Prefer not to say,Ouargla,10th,4.7,6.8,86,8,1.1,4,2,4,1,0.4,105,5,1.8,0.9,0.7,Browsing,7,4.6
+361,Adel Debbah,14,Male,Aomar,8th,3.7,9.9,50,6,1.9,7,9,9,0,1.5,147,13,3.3,1.8,0.9,Social Media,7,3.8
+362,Mahmoud Benfodil,14,Female,Yatafen,9th,3.7,6.9,65,6,0.1,2,4,10,0,1.0,149,10,1.1,0.1,1.0,Social Media,6,6.1
+363,Nasreddine Bouziane,13,Female,Adrar,9th,3.7,6.1,82,0,3.1,9,2,5,0,1.0,119,14,2.7,0.5,1.0,Gaming,3,5.6
+364,Zohra Ibrahim,18,Female,Djemila,7th,6.2,7.0,61,10,1.3,4,5,7,1,0.2,150,11,2.2,1.3,0.1,Other,4,8.2
+365,amina Maouche,17,Female,Rahbat,10th,7.6,5.8,94,6,0.0,8,5,7,1,1.4,38,14,3.7,0.9,1.8,Other,2,3.1
+366,Lyes Khelifa,16,Female,Timizart,8th,3.2,6.5,89,8,1.1,10,10,2,1,0.6,61,20,1.9,0.8,1.4,Social Media,4,6.4
+367,Khadija Ben Aoun,16,Female,Bir Ghbalou,8th,4.3,6.6,94,9,1.0,2,10,4,0,0.8,47,17,1.6,1.4,0.0,Social Media,5,0.7
+368,Samy Nacer,19,Male,Aïn Bouziane,10th,5.4,5.7,57,0,1.1,4,8,4,1,0.8,94,12,4.1,2.3,0.7,Other,2,8.5
+369,Feryel Khelifa,15,Prefer not to say,Oran,7th,7.3,5.0,67,2,0.5,8,5,5,0,1.4,77,18,1.2,1.1,0.8,Gaming,4,8.0
+370,Saida Larbi,14,Male,Issers,11th,1.6,5.9,70,10,1.5,10,8,8,0,0.9,147,18,1.9,2.7,1.0,Browsing,7,3.2
+371,Siham Bousmaha,14,Prefer not to say,Blida,12th,6.5,5.6,83,0,1.5,10,4,3,0,1.5,64,11,2.2,2.7,1.0,Social Media,2,7.3
+372,Hayat Ykhlef,19,Prefer not to say,Ouled Saber,7th,4.3,5.5,52,2,0.6,2,1,3,0,0.7,68,18,2.5,1.3,1.5,Gaming,2,4.8
+373,Soufiane Younsi,14,Prefer not to say,Bir Ghbalou,11th,5.2,5.7,86,9,0.0,4,2,1,0,1.0,120,14,1.6,1.2,0.2,Gaming,10,7.4
+374,Soraya Salhi,15,Female,Taoura,11th,3.1,4.6,90,9,0.9,5,3,5,1,1.5,85,6,1.8,3.1,1.4,Social Media,8,3.2
+375,Abderrahmane Benguettaf,14,Prefer not to say,Ghardaïa,12th,3.8,7.8,57,3,2.1,10,1,4,1,0.4,89,5,2.8,0.0,1.0,Browsing,9,6.8
+376,Hafid Hadj,17,Male,Birine,10th,8.1,6.4,91,6,0.7,4,8,4,1,1.2,128,19,1.5,2.0,1.9,Other,2,5.2
+377,Djamel El Hachemi,18,Female,El Eulma,10th,4.2,7.0,96,6,0.9,5,9,7,1,0.4,128,8,1.4,1.0,0.7,Social Media,9,8.1
+378,Issam Benaissa,19,Female,Khraicia,9th,2.5,6.6,53,8,1.4,4,10,8,0,0.6,71,9,2.6,0.6,0.9,Education,1,6.3
+379,Ouahiba Haddad,15,Female,Menzel,7th,3.5,3.2,84,3,0.1,4,10,6,1,0.7,131,16,1.9,1.0,2.0,Other,4,8.2
+380,Nada Ben Aoun,19,Prefer not to say,Batna,12th,4.0,7.4,83,3,0.3,10,4,4,0,0.6,55,18,4.1,0.8,0.0,Gaming,3,7.4
+381,Lotfi Toubal,19,Female,Chlef,7th,1.5,6.3,87,1,0.9,6,1,10,1,1.4,45,8,3.1,2.8,0.7,Social Media,4,8.1
+382,Nabil Djelali,15,Prefer not to say,Agouni Gueghrane,8th,4.7,6.8,59,8,0.6,4,8,9,1,0.8,99,11,3.1,1.3,1.2,Gaming,7,6.5
+383,Ahlem Henni,19,Prefer not to say,Touggourt,7th,9.5,6.7,59,2,0.6,8,8,7,0,1.0,79,17,2.6,0.0,2.1,Gaming,1,8.7
+384,Fella Ouali,14,Male,Yatafen,12th,4.0,8.4,69,5,1.5,8,9,9,0,1.4,131,10,0.0,1.5,1.3,Gaming,4,6.2
+385,Ziad Benfodil,15,Prefer not to say,Biskra,12th,6.4,8.5,79,3,0.0,2,8,9,1,0.5,50,14,5.0,1.2,0.0,Social Media,5,5.6
+386,Kamal Louanchi,13,Female,Médéa,10th,6.5,5.6,58,2,0.0,5,1,8,1,0.5,79,9,2.9,3.1,1.2,Social Media,5,6.8
+387,Oumaima Guerfi,17,Prefer not to say,Bougaa,7th,5.3,4.5,96,8,1.5,5,5,3,1,2.0,108,18,2.3,1.2,1.3,Gaming,1,4.8
+388,Sofiane Chaoui,19,Male,El Achour,9th,3.8,8.0,57,8,1.5,3,9,4,0,0.1,129,8,2.2,4.0,0.0,Browsing,3,4.9
+389,Ryma Zitouni,18,Female,Tizi Ouzou,10th,4.7,10.0,93,1,1.7,5,4,3,1,1.3,127,10,3.8,2.4,2.0,Education,5,2.4
+390,Lamia Rabhi,13,Prefer not to say,Laghouat,12th,5.0,6.6,97,8,0.0,2,8,6,1,1.1,116,14,2.7,2.7,0.2,Education,7,4.8
+391,Badis Maouche,18,Prefer not to say,Bouderbala,7th,1.7,6.2,52,8,1.3,2,2,7,0,1.3,76,17,1.1,1.9,0.7,Social Media,7,6.5
+392,Rafik Idir,14,Female,Annaba,11th,4.3,4.6,55,4,1.3,2,2,4,0,0.8,64,5,2.5,0.6,1.3,Education,8,5.1
+393,Noureddine Tayebi,19,Male,Ouyoun El Assafs,8th,1.3,7.3,83,7,1.5,2,6,7,0,0.8,51,17,2.4,3.1,0.7,Education,2,6.0
+394,Badis Tebboune,19,Female,Aïn Defla,10th,8.5,6.4,54,9,1.0,4,5,6,0,0.5,23,18,1.0,1.6,2.1,Gaming,6,3.9
+395,Inas Aissaoui,13,Female,Aït Rzine,7th,8.0,5.9,80,9,1.3,10,9,4,1,1.9,28,6,1.5,1.6,1.2,Other,9,5.9
+396,Nadir Bousmaha,19,Female,Aïn Oulmene,7th,6.0,6.9,77,10,0.7,4,6,5,1,0.9,54,7,2.6,0.2,2.2,Gaming,5,8.2
+397,Ayoub Sellami,18,Prefer not to say,Algiers,9th,7.5,5.0,54,2,0.6,5,2,1,1,1.8,106,18,1.8,1.2,2.8,Gaming,9,6.6
+398,Chafik Yahiaoui,17,Male,Ghardaïa,11th,3.5,5.1,77,6,1.7,1,1,2,1,1.2,91,9,2.0,0.9,1.1,Other,2,7.7
+399,Malika Saidi,13,Prefer not to say,Sidi Bel Abbès,8th,0.9,7.9,67,1,0.9,2,2,4,0,1.4,62,11,3.1,0.0,1.8,Other,9,4.2
+400,Abderrahmane Trabelsi,13,Female,Hamma Loulé,7th,3.9,8.0,57,9,0.4,1,5,6,0,2.1,92,10,2.4,0.0,0.7,Other,1,7.3
+401,Selma Hamzaoui,15,Female,Amizour,11th,6.3,8.2,73,5,0.0,4,10,7,0,0.5,97,7,1.6,1.5,0.7,Social Media,1,4.8
+402,Farida Ahmed,15,Male,Khenchela,12th,5.2,8.2,91,9,0.4,6,7,7,1,1.0,91,8,1.8,0.0,1.0,Other,6,6.1
+403,Camila Bouteldja,19,Female,Beni Messous,10th,7.6,7.5,61,0,2.1,4,8,4,1,0.6,100,16,2.1,2.4,0.8,Other,7,5.6
+404,Youssra Meftah,17,Male,Sidi Aïch,12th,6.3,9.3,52,5,0.5,2,9,5,1,0.3,91,11,3.3,1.8,0.0,Browsing,2,6.7
+405,Malika Zerrouki,14,Prefer not to say,Tala Hamza,7th,6.1,4.8,68,0,2.4,6,8,5,0,0.8,87,19,4.2,0.0,1.7,Other,8,5.1
+406,Safia Tigha,16,Male,Taoura,11th,7.7,7.4,50,10,1.8,8,2,10,0,0.8,26,10,2.7,2.3,0.9,Education,10,3.8
+407,Hakim Toumi,14,Prefer not to say,Lakhdaria,9th,5.1,5.6,68,0,2.7,5,4,5,0,0.7,67,18,4.5,1.0,1.9,Other,2,4.7
+408,Adila Benfodil,19,Male,Douera,9th,2.9,3.0,54,5,2.0,8,4,3,0,1.5,73,19,2.1,0.9,1.0,Education,6,5.7
+409,Abdallah Ben Said,13,Male,T’Kout,9th,5.9,8.1,65,8,0.3,5,10,1,1,1.8,140,17,2.3,3.2,0.5,Education,1,7.5
+410,Farid Merabet,16,Female,El Main,8th,3.7,6.7,53,6,1.9,10,8,7,0,1.7,26,9,2.3,0.0,0.0,Education,7,8.2
+411,Wissam Khammar,18,Prefer not to say,Tarik Ibn Ziad,9th,3.4,6.3,83,6,0.7,4,8,8,1,0.9,79,20,1.2,2.3,2.4,Browsing,7,10.1
+412,Islam Attia,15,Male,Boukhelifa,9th,6.6,8.5,89,3,1.5,5,7,2,1,0.2,128,9,1.7,4.0,1.1,Other,9,7.3
+413,Lina Guerfi,17,Prefer not to say,Bordj Baji Mokhtar,12th,5.8,8.4,73,4,0.0,1,10,3,1,1.1,67,6,2.1,2.6,0.4,Gaming,10,7.1
+414,Rami Brahimi,19,Prefer not to say,Draria,9th,2.3,8.5,93,10,1.0,10,2,1,1,0.9,90,12,1.9,1.6,0.0,Browsing,8,6.1
+415,Ahmed Ben Said,15,Prefer not to say,Hamma,7th,5.1,8.4,85,0,1.3,6,1,4,0,1.5,127,20,3.0,0.6,0.8,Social Media,1,7.4
+416,Manel Toubal,13,Male,Tissemsilt,9th,8.0,5.7,65,6,1.7,9,2,6,1,0.5,89,6,0.8,3.2,0.8,Other,6,3.3
+417,Sabrina Nasri,19,Female,Ouled Djellal,11th,0.0,8.8,95,10,1.9,6,1,5,1,0.6,21,18,3.6,1.4,1.0,Browsing,4,6.2
+418,Nasreddine Selmane,13,Male,Salah Bey,10th,3.8,3.7,78,9,2.0,1,5,9,0,0.3,64,8,1.7,0.9,1.2,Education,6,9.6
+419,Nasreddine Tebboune,15,Prefer not to say,Beni Douala,10th,4.4,8.5,59,0,0.7,10,5,5,1,0.7,74,7,3.2,0.0,0.0,Education,2,4.3
+420,Samar Merabet,14,Prefer not to say,Mascara,7th,4.5,6.7,78,4,0.2,5,6,2,1,1.6,67,10,2.0,0.0,0.0,Other,6,7.6
+421,Imene Ouahrani,14,Female,Medjana,8th,5.4,7.1,100,7,1.9,2,4,9,1,1.3,139,20,3.4,1.9,0.9,Other,5,8.9
+422,Kahina Benabdallah,18,Male,Aït Rzine,11th,4.2,6.2,58,4,0.8,6,5,10,1,0.3,90,14,0.6,0.9,0.9,Browsing,2,7.0
+423,Djamila Daoudi,15,Female,Saïda,12th,8.1,7.8,72,8,0.0,5,1,3,0,0.0,37,17,2.0,2.4,1.4,Other,10,8.1
+424,Yasmine Sahraoui,17,Male,Tifra,8th,5.3,7.9,80,4,1.3,7,3,5,1,2.1,142,14,2.7,0.1,1.1,Gaming,2,7.2
+425,Jihane Benguettaf,14,Male,Illizi,9th,4.9,8.3,96,3,2.2,9,8,6,0,0.5,74,14,2.9,0.4,2.3,Other,1,7.9
+426,Jaouad Benziane,16,Female,Aïn Oulmene,10th,2.7,5.2,86,3,0.2,6,10,6,0,0.4,66,12,3.8,2.3,1.1,Browsing,4,6.2
+427,Zahia Benaissa,14,Male,Oum El Bouaghi,12th,3.6,4.8,88,5,0.7,4,8,2,0,0.3,21,11,2.9,2.1,0.1,Social Media,4,5.8
+428,Hana Tigha,15,Prefer not to say,Maatkas,12th,2.9,7.8,89,10,0.4,2,9,10,0,1.5,65,7,3.3,1.6,1.3,Other,9,9.1
+429,Issam Toubal,19,Female,Ghardaïa,10th,2.2,7.6,86,5,1.4,1,3,8,1,1.0,64,5,1.5,2.3,0.7,Education,7,8.9
+430,Sarah Belkacem,17,Male,Khraicia,10th,5.7,5.5,64,5,0.0,5,8,1,0,1.1,93,8,2.1,2.3,0.7,Other,9,9.0
+431,Khaled Gacemi,15,Prefer not to say,Djelfa,9th,5.0,7.1,95,7,0.8,7,6,4,1,1.9,29,9,2.8,1.0,1.9,Education,1,6.5
+432,Leila Si Ali,17,Prefer not to say,Jijel,12th,9.8,5.0,65,0,0.6,5,2,9,0,1.6,81,8,2.0,2.1,1.6,Education,10,8.1
+433,Azzedine Louanchi,19,Prefer not to say,Adrar,11th,8.6,5.2,63,0,1.1,6,4,8,0,1.3,72,15,0.2,1.8,0.7,Browsing,9,6.6
+434,Noureddine Messaoudi,14,Female,Ouled Moussa,11th,4.2,5.0,82,2,1.0,7,1,8,1,0.6,72,9,3.3,1.7,1.4,Other,1,3.2
+435,Nora Debbah,16,Female,Béchar,8th,3.5,5.3,57,0,0.0,8,3,10,0,0.8,47,19,2.8,1.2,1.6,Social Media,10,5.6
+436,Imad Khelifi,14,Prefer not to say,Chir,12th,6.2,8.1,55,4,2.6,7,8,10,0,1.7,103,14,1.4,3.6,1.6,Education,7,7.3
+437,Sabah Salhi,16,Prefer not to say,Laghouat,7th,3.1,4.2,61,9,1.1,10,3,7,1,1.1,112,11,2.2,0.4,1.7,Gaming,6,4.2
+438,Sirine Ouahrani,14,Female,Souk El Khemis,12th,6.7,8.2,94,10,1.0,10,6,1,1,1.3,76,9,0.8,1.0,0.8,Other,10,5.6
+439,El Hadi Mohamed,13,Male,El Bayadh,11th,5.9,7.0,79,0,1.1,7,6,7,0,0.3,40,19,0.5,0.3,1.5,Education,4,4.6
+440,Zakaria Khelifa,16,Male,Touggourt,7th,3.1,7.4,93,5,1.7,8,10,7,1,1.2,112,9,3.8,2.4,0.2,Social Media,2,5.2
+441,Imene Ouahrani,17,Prefer not to say,Bordj Baji Mokhtar,10th,4.9,6.9,71,0,0.1,3,7,4,1,0.8,33,12,2.4,2.3,0.4,Social Media,7,7.2
+442,Salma Boussaada,13,Prefer not to say,Akbou,9th,6.9,7.6,53,8,2.1,4,7,8,1,0.1,85,13,1.5,2.6,0.8,Gaming,10,5.5
+443,Alaa Eddine Lakhdar,17,Male,Bouzareah,11th,4.5,8.2,98,10,1.1,8,1,9,0,1.8,53,19,2.2,2.9,2.2,Gaming,5,6.4
+444,Wafa Baghdad,14,Prefer not to say,Blida,8th,6.7,5.5,77,2,1.1,1,6,6,1,0.9,36,6,0.3,0.8,0.9,Browsing,1,3.2
+445,Salem Benaissa,13,Prefer not to say,Tessaout,9th,5.0,8.3,67,9,2.9,1,2,7,0,0.8,140,16,4.7,0.5,0.0,Other,1,6.5
+446,Jaouad Ouali,14,Prefer not to say,Draria,12th,2.8,7.6,82,1,3.0,4,8,4,1,0.9,59,18,2.8,1.6,0.4,Browsing,6,6.3
+447,Lina Belkacem,16,Female,Constantine,10th,6.3,5.9,88,1,0.0,9,10,9,0,0.5,141,11,3.5,1.1,0.0,Browsing,2,6.7
+448,Seifeddine Mokhtar,14,Female,Sidi Bel Abbès,9th,3.8,7.5,79,5,0.0,8,10,3,1,0.9,75,8,1.9,3.0,1.2,Gaming,4,5.6
+449,Issra Amrouche,14,Female,Chorfa,10th,6.0,5.0,89,0,0.8,5,6,4,0,0.6,140,15,2.7,0.0,1.0,Gaming,5,5.3
+450,Said Nemouchi,14,Male,Guidjel,7th,2.4,5.3,70,3,1.8,10,7,3,0,1.4,110,5,3.3,1.4,1.8,Education,6,2.9
+451,Seifeddine Zouaoui,15,Female,Touggourt,12th,1.9,8.0,88,3,0.6,7,2,5,1,0.7,46,14,2.4,1.7,0.6,Social Media,3,5.0
+452,Fella Lakhdar,13,Female,Tala Ifacene,10th,5.3,9.7,52,5,1.0,3,3,8,1,1.7,145,9,2.3,1.3,0.0,Education,6,7.3
+453,Shaima Brahimi,17,Male,Béchar,9th,4.7,3.9,62,2,0.4,8,1,6,1,0.2,62,18,3.7,1.9,0.8,Other,9,4.6
+454,Imene Meliani,13,Prefer not to say,Touggourt,10th,8.2,5.1,82,1,0.0,6,3,2,0,0.2,108,15,2.2,1.8,1.0,Gaming,10,8.3
+455,Yahia Djelloul,16,Female,Bazer Sakhra,8th,6.5,7.1,60,6,1.0,1,6,7,1,0.6,49,19,2.2,1.5,0.4,Other,2,5.3
+456,Nesrine Zouaghi,19,Prefer not to say,Tindouf,11th,6.9,7.2,98,4,0.9,4,5,3,1,0.9,63,10,2.1,1.4,0.9,Browsing,4,3.3
+457,Sabah Younsi,17,Female,Belouizdad,8th,2.0,4.1,95,10,1.3,7,6,2,1,0.7,38,7,2.0,3.0,0.7,Social Media,1,6.4
+458,Leila Cheikh,16,Male,Aït Mellikeche,11th,6.7,5.8,52,0,1.0,9,10,6,1,1.0,43,16,2.5,1.6,0.8,Other,9,5.5
+459,Fethi Bouterfa,13,Female,Illizi,9th,6.0,6.4,89,6,2.1,8,9,3,1,1.0,96,9,0.5,0.8,2.3,Social Media,8,5.4
+460,Fella Djelali,14,Female,Tiaret,9th,7.2,7.2,87,1,0.1,2,2,10,1,0.8,145,9,0.7,1.5,0.0,Social Media,6,6.6
+461,Noureddine Messaoudi,15,Male,Menaa,11th,5.2,8.0,64,9,1.3,9,1,3,1,1.1,62,8,3.2,2.7,1.5,Other,3,3.0
+462,Hamza Boudjemaa,15,Male,Ouacif,9th,5.8,6.9,84,8,2.3,3,9,3,1,0.5,106,7,3.1,1.2,1.5,Social Media,6,5.5
+463,Salem Younsi,16,Male,El Oued,8th,2.8,5.9,57,2,1.0,6,6,1,0,1.0,81,16,1.7,1.7,1.0,Browsing,2,8.0
+464,Sarah Haddad,15,Male,Tissemsilt,8th,0.8,6.7,66,1,0.9,7,3,5,0,0.6,104,20,2.4,0.0,1.9,Social Media,7,5.9
+465,Amin Sahraoui,15,Prefer not to say,Khenchela,7th,5.4,8.7,61,4,0.2,9,9,5,1,1.6,95,18,3.4,3.1,1.2,Browsing,4,4.0
+466,Zakaria Salhi,19,Prefer not to say,Djanet,7th,8.1,8.2,86,0,1.0,3,6,2,1,1.1,73,19,1.8,2.0,0.0,Education,6,5.9
+467,Hocine Nadjib,16,Male,Chir,11th,5.0,7.9,100,0,0.3,4,9,8,1,0.9,26,15,1.6,0.0,0.8,Social Media,4,8.4
+468,Nihel Lazem,13,Male,Djanet,9th,7.6,7.2,86,3,1.8,10,3,9,1,1.4,117,10,1.9,1.7,0.7,Education,5,7.5
+469,Amin Chabane,16,Female,Ouargla,10th,5.0,7.1,63,5,1.8,4,3,9,0,1.0,105,12,2.2,1.5,2.2,Other,8,1.9
+470,Karima Mahdi,17,Female,Staouéli,11th,2.3,5.6,60,6,0.7,2,5,4,0,1.0,149,18,0.8,1.8,0.4,Gaming,1,6.0
+471,Sarah Zerrouki,17,Male,Blida,9th,9.0,6.6,62,7,1.6,10,7,8,1,0.9,101,15,3.4,3.0,1.7,Education,3,6.0
+472,Hakim Benabdallah,19,Male,El Taref,8th,6.2,6.5,90,2,0.2,2,9,8,1,0.9,93,13,3.3,4.0,0.0,Social Media,5,7.6
+473,Zoulikha Sifi,19,Prefer not to say,Khenchela,10th,4.5,5.9,92,5,0.4,1,2,6,0,0.7,32,20,2.5,1.4,0.1,Gaming,8,6.9
+474,Adel Ibrahim,17,Male,Oran,11th,4.7,8.3,97,6,0.2,3,8,6,0,1.3,119,9,3.0,0.6,1.1,Gaming,9,5.5
+475,Yasine Bouterfa,14,Prefer not to say,Djelfa,10th,4.5,4.8,82,4,1.1,1,6,5,1,1.0,21,20,1.9,2.9,0.2,Gaming,5,7.8
+476,Zahra Ziani,18,Male,Aït Yenni,8th,7.2,6.7,62,7,1.1,7,6,3,1,1.0,32,15,3.2,0.2,1.9,Gaming,3,3.9
+477,Dalila Lakhdar,16,Female,Bordj Baji Mokhtar,8th,3.7,6.9,91,2,2.6,7,8,3,1,1.0,62,11,2.3,2.1,1.0,Other,1,8.0
+478,Ghiles Dris,13,Male,Batna,9th,1.8,5.5,94,10,1.7,6,8,8,1,1.4,108,16,1.8,0.7,1.0,Education,2,7.5
+479,Lyes Ouattara,19,Male,Batna,10th,3.3,5.5,70,5,0.1,3,9,3,1,1.0,123,19,3.5,0.2,1.5,Gaming,2,6.8
+480,Hafid Larbi,14,Prefer not to say,Draria,10th,5.1,5.7,76,8,0.2,6,8,2,1,0.0,145,11,4.3,2.0,0.3,Other,7,4.1
+481,Noureddine Debbah,15,Female,In Guezzam,10th,4.5,5.9,62,1,1.5,9,9,3,0,0.9,79,17,3.2,1.2,0.1,Gaming,6,5.9
+482,Lyes Amrouche,19,Female,Ouargla,10th,5.8,7.5,54,3,1.2,8,2,5,1,1.1,150,11,2.2,0.9,2.3,Gaming,8,9.3
+483,Safia Bouterfa,19,Prefer not to say,Djanet,9th,4.8,4.6,91,0,0.0,5,10,9,0,1.4,37,10,1.8,2.3,0.7,Education,6,7.2
+484,Ahmed Ben Messaoud,16,Female,Oran,12th,6.4,5.9,81,9,1.4,3,6,6,0,0.4,27,12,2.0,1.7,1.5,Gaming,3,5.9
+485,Nada Debbah,14,Male,Beni Ourtilane,10th,5.2,8.6,67,9,0.9,8,4,3,0,1.8,76,13,3.1,1.5,0.4,Browsing,10,9.4
+486,Wafa Bouzid,13,Female,Bougaa,7th,4.6,8.7,98,7,1.2,4,6,1,0,1.4,122,10,3.8,1.9,0.2,Browsing,5,9.5
+487,Nadia Akroum,14,Male,Aïn Oulmene,12th,6.1,6.1,69,6,0.6,8,9,7,0,0.5,85,11,4.4,0.3,1.2,Browsing,6,5.8
+488,Shaima Henni,16,Female,Boukhelifa,10th,4.2,6.7,63,6,0.1,2,7,10,0,1.6,32,15,2.1,1.4,1.0,Other,7,6.7
+489,Khaled Tebboune,18,Prefer not to say,Akbou,9th,3.4,5.6,93,2,1.7,9,3,7,0,1.0,56,15,3.0,2.1,1.2,Browsing,1,4.8
+490,Okba Mansouri,13,Male,Timezrit,11th,5.3,5.9,85,9,0.6,6,1,2,1,0.9,98,14,2.3,2.6,0.9,Education,8,8.9
+491,Riad Ferhat,13,Female,Mekla,10th,4.2,6.3,90,8,2.6,9,4,5,0,0.4,59,8,1.8,0.0,1.8,Social Media,10,10.8
+492,Fella Tayebi,15,Female,Aït Rzine,11th,5.5,6.6,100,8,0.7,10,9,8,1,0.7,58,19,2.7,0.5,0.8,Other,9,4.8
+493,Youssra Sellami,19,Prefer not to say,Hassi Messaoud,7th,7.8,5.3,67,9,1.3,6,4,4,0,0.9,122,20,2.9,1.0,0.0,Education,8,7.3
+494,Manel Touati,15,Male,Menaa,9th,3.9,5.5,70,10,1.1,2,6,4,0,0.8,51,10,1.3,1.8,0.2,Other,1,4.0
+495,Hafid Kamel,18,Male,Blida,10th,6.4,4.2,81,0,2.5,5,8,1,0,0.5,56,15,2.8,3.2,1.0,Browsing,9,6.1
+496,Rahma Ziani,17,Prefer not to say,T’Kout,12th,2.7,6.8,85,2,1.4,4,3,9,1,0.3,61,6,3.2,0.0,0.2,Other,2,7.1
+497,Zahra Cheikh,14,Female,Relizane,7th,5.3,9.1,58,10,0.9,5,5,9,1,1.2,83,16,2.0,1.5,0.9,Gaming,5,3.1
+498,Amine Mohamed,19,Male,Timimoun,8th,6.3,3.0,58,8,1.1,5,2,8,0,0.6,48,6,3.9,1.1,0.1,Other,6,8.5
+499,Alaa Eddine Djaballah,18,Male,M'chedallah,12th,5.4,9.2,57,0,1.6,3,5,3,0,0.1,66,14,1.7,0.1,1.1,Gaming,6,8.9
+500,Ahmed Haddad,14,Female,Bordj Emir Abdelkader,7th,2.7,5.1,69,9,0.6,9,2,3,1,0.7,139,11,2.0,0.0,1.1,Browsing,7,6.3
+501,Amine Henni,16,Female,Aïn Defla,12th,5.0,8.0,77,7,0.4,3,2,7,0,0.9,86,14,1.1,0.0,0.8,Other,6,6.7
+502,Nabil Touam,18,Male,Boumerdès,12th,5.4,5.9,69,4,1.3,2,7,8,0,0.6,83,19,1.6,1.0,0.4,Browsing,7,6.1
+503,Jawaher Rahmani,15,Male,Oran,12th,3.9,9.1,100,8,1.0,9,1,3,1,1.1,116,8,3.0,1.2,1.9,Other,8,8.9
+504,Kenza Benaissa,14,Female,Aïn Roua,10th,4.9,6.5,85,10,0.0,9,8,2,1,0.9,110,19,3.9,2.1,1.1,Gaming,2,5.4
+505,Aicha Benaissa,19,Female,Hamma,12th,4.2,7.5,87,5,0.3,9,1,8,0,0.9,75,8,1.5,3.8,1.6,Other,1,8.3
+506,Mehrez Lazem,14,Male,Layoune,11th,3.5,6.7,76,6,1.1,9,4,7,0,0.7,107,15,2.3,1.8,1.6,Gaming,3,3.9
+507,Kahina Ben Hamou,18,Male,Saharij,7th,4.9,7.7,85,8,0.6,4,6,5,1,2.5,55,10,2.9,0.9,1.8,Browsing,1,6.1
+508,Assia Remili,16,Female,Tiaret,10th,6.6,5.6,96,8,1.0,2,6,4,0,1.1,55,18,2.7,0.9,1.9,Gaming,10,1.8
+509,Souad Khaldi,16,Prefer not to say,Illizi,8th,5.5,5.4,63,8,0.0,5,10,3,1,2.0,72,14,1.4,0.0,0.8,Other,1,8.3
+510,Nawal Aissaoui,17,Prefer not to say,Saoula,12th,1.7,7.7,96,4,2.4,5,1,7,1,0.6,28,12,2.6,1.7,0.2,Education,8,6.4
+511,Nesrine Saidane,16,Female,Aïn Defla,7th,8.2,5.6,55,6,0.0,5,5,6,1,0.9,116,14,1.4,2.2,1.6,Social Media,10,8.8
+512,Ilyes Ayachi,17,Female,Tindouf,7th,3.9,5.8,86,4,2.3,1,5,9,1,1.6,66,15,1.4,0.2,1.3,Gaming,8,6.5
+513,Karima Attia,14,Prefer not to say,Baraki,7th,4.9,9.6,98,8,1.5,6,6,9,1,0.5,57,16,2.1,0.8,1.6,Social Media,7,9.6
+514,Sofian Ben Toumi,14,Female,Timizart,11th,5.8,5.9,62,0,0.4,2,6,4,0,0.4,87,8,0.9,2.9,0.3,Other,7,5.9
+515,Tarek Mohamed,16,Male,Beni Messous,12th,8.8,7.3,80,10,1.0,4,3,3,1,1.1,58,10,3.5,1.9,0.6,Other,3,4.7
+516,Sirine Abderrahmane,13,Prefer not to say,Omar,7th,5.3,7.0,60,6,2.1,1,10,9,0,2.0,58,8,3.2,2.8,0.1,Other,6,9.3
+517,Sofian Ykhlef,17,Prefer not to say,Tiaret,12th,5.3,6.9,84,3,1.5,5,7,7,1,0.2,56,6,1.0,1.6,0.8,Browsing,10,2.8
+518,Fatiha Kaidi,15,Male,Tamalous,8th,7.6,5.2,82,2,1.0,5,5,1,1,0.8,67,5,1.8,1.0,0.6,Gaming,1,7.4
+519,Sirine Maouche,13,Male,Ghardaïa,7th,4.7,5.8,87,0,0.9,4,6,2,1,0.9,149,11,3.8,1.4,1.2,Gaming,4,2.8
+520,Yasmina Remili,16,Male,El Eulma,10th,4.8,7.7,64,9,0.4,2,9,7,1,1.7,23,8,2.4,1.2,1.2,Other,3,4.8
+521,Rafik Selmane,16,Female,Idrissia,11th,0.9,6.3,85,3,2.5,6,7,8,1,0.6,36,8,2.5,0.5,1.9,Education,5,3.3
+522,Samir Ali,15,Prefer not to say,El M'Ghair,7th,4.7,4.7,51,7,0.0,4,7,9,0,1.2,140,10,2.4,0.0,0.5,Browsing,1,3.4
+523,Souad Zouaoui,14,Male,El Bayadh,11th,3.0,6.1,90,2,0.5,4,2,6,1,0.3,129,7,3.6,2.0,1.1,Browsing,5,7.5
+524,Khadija Fares,15,Female,Djelfa,7th,3.6,10.0,54,9,0.3,4,8,8,0,1.0,28,7,4.2,2.7,0.2,Other,3,4.9
+525,Samar Mezouar,17,Prefer not to say,Tazmalt,7th,4.0,7.2,79,2,1.6,7,4,1,0,1.9,112,14,4.0,2.1,1.0,Social Media,10,5.5
+526,Lina Louanchi,14,Female,Oued Chorfa,12th,7.1,3.0,87,8,1.6,7,1,3,1,1.4,79,12,3.1,1.6,0.6,Browsing,3,5.7
+527,Seifeddine Haddad,18,Male,In Salah,9th,8.4,6.0,88,6,2.5,3,2,2,0,0.8,77,8,1.0,2.5,2.4,Social Media,4,4.4
+528,Khadija Nemouchi,14,Female,Tamanrasset,8th,6.8,5.9,83,3,1.5,9,1,7,0,0.6,88,18,2.1,2.7,1.1,Other,1,7.7
+529,Adel Djelali,17,Female,Khenchela,10th,6.0,4.2,56,8,1.1,2,7,1,0,1.0,46,9,1.4,1.7,0.4,Social Media,10,5.6
+530,Soha Khammar,19,Prefer not to say,Issers,12th,5.1,7.5,79,5,2.0,2,1,3,1,0.8,82,16,1.2,2.1,0.7,Browsing,1,7.0
+531,Ziad Louanchi,14,Male,Mizrana,11th,4.8,6.4,77,5,0.2,7,3,2,0,1.0,62,18,2.9,1.1,0.1,Education,9,6.1
+532,Dalila Guerfi,17,Female,Nzala,7th,5.5,6.9,65,3,0.4,6,9,9,1,0.4,82,6,1.6,1.1,0.2,Browsing,4,6.2
+533,Ikram Rabhi,15,Male,Sétif,9th,4.7,6.3,72,5,1.7,9,9,6,1,0.7,25,11,1.6,1.2,1.5,Social Media,2,8.4
+534,Mustapha Sahraoui,19,Female,Baraki,8th,1.6,4.8,83,7,1.4,10,6,10,0,0.7,20,7,3.3,1.1,0.7,Browsing,8,6.1
+535,Abdallah Zouaoui,17,Female,Touggourt,10th,0.8,5.7,65,10,1.8,5,6,1,1,1.2,128,11,3.2,2.3,2.4,Gaming,3,7.2
+536,Kamal Iles,18,Female,Ouled Djellal,12th,4.0,5.7,55,0,1.4,4,5,2,1,1.3,48,18,2.7,3.0,0.7,Other,8,8.3
+537,Issra Amara,15,Female,Baraki,11th,3.7,6.0,64,1,1.2,10,3,9,0,1.5,117,17,2.4,1.5,0.9,Social Media,5,7.0
+538,Sofian Louanchi,15,Prefer not to say,Freha,10th,0.8,7.4,70,7,1.7,9,1,1,1,0.8,67,10,2.9,0.9,1.2,Browsing,6,8.9
+539,Celia Ben Hamou,19,Male,Tichrine,7th,9.4,8.0,97,5,0.8,2,6,2,1,0.7,53,11,3.6,2.5,0.7,Social Media,8,6.2
+540,Fateh Daoudi,16,Female,Sidi Bel Abbès,9th,7.9,7.6,68,0,2.4,4,9,6,1,0.7,32,18,2.5,2.0,0.4,Social Media,6,7.0
+541,Kais Rahmani,14,Prefer not to say,Illizi,9th,6.9,7.4,50,5,0.9,5,3,4,0,0.7,58,20,0.9,1.3,1.2,Social Media,3,6.9
+542,Fethi Ahmed,14,Male,El Oued,10th,6.7,5.2,84,6,1.2,2,10,7,0,1.9,60,19,1.4,1.1,1.4,Browsing,1,3.6
+543,Sara Djaout,13,Prefer not to say,Zéralda,10th,8.7,6.6,54,7,2.6,5,7,3,0,2.0,89,17,1.8,2.6,1.2,Gaming,7,1.3
+544,Celia Boussaada,18,Prefer not to say,Relizane,7th,6.4,6.3,88,10,0.8,6,4,5,1,0.7,91,10,2.6,2.1,0.5,Education,6,8.6
+545,Mehdi Mansouri,19,Prefer not to say,El Kantara,12th,5.6,5.2,73,2,3.0,2,1,1,1,0.5,98,11,2.2,0.8,0.3,Other,1,7.8
+546,Nabil Ibrahim,15,Female,Aïn Arnat,9th,0.0,7.8,61,7,0.8,7,2,3,1,1.1,76,14,3.6,0.7,1.0,Education,7,8.9
+547,Souhila Mecheri,17,Male,Baraki,10th,7.0,5.6,58,9,0.7,3,6,4,1,1.3,85,18,2.8,1.6,0.7,Gaming,4,5.8
+548,Lounes Kaci,18,Prefer not to say,Boumedfaa,11th,6.7,6.7,83,7,0.9,2,8,1,1,1.1,84,20,3.5,0.6,0.0,Social Media,3,6.8
+549,Malika Mezouar,14,Prefer not to say,El Oued,10th,4.1,6.8,74,0,0.9,3,7,8,0,1.2,119,10,3.8,1.1,1.1,Browsing,1,9.7
+550,Ouahiba Ykhlef,18,Male,El Hadjira,9th,6.9,6.9,91,7,0.0,3,10,6,0,0.7,130,18,3.5,0.5,0.3,Social Media,1,6.3
+551,Salem Ghazi,16,Female,Aïn Sebt,12th,5.4,7.2,76,10,2.5,1,6,6,0,1.5,81,19,3.6,0.4,0.9,Education,1,8.0
+552,Farida Belkacem,15,Male,Mostaganem,9th,2.8,8.9,91,5,2.0,3,3,10,1,0.7,51,15,4.1,0.3,0.7,Browsing,1,4.0
+553,Rami Boudjemaa,16,Female,Bordj Baji Mokhtar,8th,4.1,9.5,51,6,2.0,4,7,6,1,0.8,56,6,1.6,1.0,0.8,Browsing,1,6.1
+554,Hamza Segni,13,Prefer not to say,Skikda,10th,6.2,6.1,67,8,0.2,10,10,3,1,0.8,95,11,2.6,1.9,0.7,Social Media,3,4.2
+555,Nihel Moualek,17,Prefer not to say,Bir Mourad Raïs,12th,1.4,6.9,56,10,1.6,7,5,4,0,1.1,103,7,1.9,0.0,1.4,Education,3,3.3
+556,Riad Chikh,14,Female,Saïda,11th,4.2,6.6,99,5,0.4,3,1,10,0,2.1,68,11,2.0,4.0,1.2,Other,2,5.8
+557,Linda Amara,17,Male,Biskra,11th,2.2,4.9,62,9,0.1,3,4,7,1,1.4,127,8,3.1,1.5,2.4,Browsing,4,6.1
+558,Meriem Sifi,16,Prefer not to say,Dréan,12th,6.3,6.7,77,9,0.0,9,6,7,1,0.6,131,17,2.3,2.4,1.1,Browsing,2,3.7
+559,Azzedine Hadj,16,Male,Boumerdès,7th,7.8,7.4,81,0,1.9,5,6,10,0,1.1,135,14,3.6,1.1,1.3,Browsing,6,4.5
+560,Sirine Aissaoui,17,Male,Beni Mouhli,8th,7.4,6.3,75,0,0.8,2,10,1,0,1.6,98,12,1.2,0.3,0.4,Gaming,5,8.2
+561,Karim Laid,15,Prefer not to say,Freha,10th,3.6,6.9,60,6,0.7,9,8,10,0,2.0,128,6,3.5,1.0,2.0,Other,6,6.0
+562,Slimane Benguettaf,13,Female,Saoula,10th,5.9,4.4,73,5,0.2,10,1,6,0,1.0,94,10,3.4,1.1,0.9,Browsing,4,8.9
+563,Karima Kamel,13,Prefer not to say,Touggourt,9th,3.7,7.4,82,10,0.8,5,7,9,0,1.0,144,14,1.9,2.0,1.0,Browsing,6,4.2
+564,Nesrine Remili,13,Female,Aïn Oussara,11th,8.8,7.7,62,5,1.7,8,6,3,1,0.6,34,18,3.2,1.2,1.5,Gaming,6,5.6
+565,Souad Slimani,18,Prefer not to say,Casbah,12th,4.4,7.0,61,1,0.0,6,4,10,0,1.3,110,20,0.7,0.0,1.7,Browsing,8,0.2
+566,Mounir Djaout,19,Prefer not to say,Larbaâ Nath Irathen,10th,3.1,5.5,76,4,1.7,6,8,1,0,1.3,87,9,1.8,0.0,2.3,Social Media,3,6.9
+567,Rahma Brahimi,17,Prefer not to say,Rouiba,10th,4.9,8.3,100,5,1.5,4,4,5,0,0.6,137,13,3.7,1.8,0.4,Social Media,1,4.0
+568,Samar Madani,17,Prefer not to say,Ouled Naïl,7th,3.2,6.2,80,5,1.6,7,2,3,1,0.2,36,6,1.1,2.1,0.6,Social Media,7,5.7
+569,Fatima Moualek,13,Female,Timizart,12th,2.9,6.0,69,10,2.6,7,10,4,1,1.2,58,5,3.7,0.7,0.3,Gaming,8,8.5
+570,Bilal Bouterfa,17,Male,Mostaganem,9th,5.4,7.1,100,5,1.4,10,2,4,1,1.3,58,6,2.2,3.0,0.5,Other,2,7.1
+571,Narimane Cherif,14,Female,Khraicia,9th,8.1,6.9,69,10,0.0,9,9,3,0,0.1,60,10,1.8,1.8,0.1,Gaming,8,7.7
+572,Samira Dekkiche,16,Prefer not to say,Batna,8th,1.7,5.1,86,7,2.1,4,1,3,1,1.2,57,14,3.0,2.1,1.6,Education,8,5.4
+573,Fatiha Merabet,15,Male,Hassi Messaoud,9th,1.5,4.3,56,9,0.8,9,8,2,1,0.8,88,20,1.3,2.6,0.0,Other,6,7.1
+574,Zohra Moussaoui,18,Prefer not to say,El M'Ghair,9th,5.4,5.6,55,6,2.3,8,10,2,1,0.9,60,19,5.0,1.3,1.0,Education,4,7.9
+575,Asma Si Ali,15,Female,Tadmaït,8th,5.3,8.8,99,9,0.7,4,9,3,1,1.3,119,11,0.7,2.9,1.8,Other,4,6.2
+576,Yasmina Nacer,19,Female,Hassi Bahbah,9th,1.5,6.8,60,9,0.3,5,1,7,0,0.5,114,14,1.5,3.4,0.1,Gaming,3,5.7
+577,Sid Ahmed Charef,16,Male,Adrar,7th,5.8,5.3,99,6,0.8,2,4,5,0,0.4,41,18,2.3,1.6,1.5,Gaming,10,4.1
+578,Farid Bousmaha,18,Prefer not to say,Ouled Sidi Brahim,12th,5.0,6.6,82,1,1.3,7,5,5,0,0.4,25,14,0.5,1.0,0.0,Other,1,4.8
+579,Mahmoud Benfodil,16,Prefer not to say,Oum El Bouaghi,10th,4.3,5.4,54,1,0.5,7,2,4,1,0.4,61,8,3.6,2.6,1.0,Browsing,5,4.9
+580,Salem Benmokhtar,16,Female,Boukhelifa,9th,4.8,5.3,71,10,2.5,7,10,2,1,1.6,30,16,3.5,2.5,0.6,Other,9,7.1
+581,Sabah Slimani,19,Male,El Oued,9th,8.1,7.1,77,1,0.9,7,4,8,0,0.9,22,6,3.4,0.8,1.9,Gaming,4,5.6
+582,Issam Benali,19,Male,Aïn Abessa,12th,5.7,4.8,64,1,1.0,9,10,8,1,2.0,106,13,4.5,1.5,0.0,Education,5,8.6
+583,Rayane Bouterfa,13,Male,Aïn Témouchent,7th,5.6,5.8,85,4,0.6,1,2,8,1,1.4,44,7,2.1,0.0,1.5,Gaming,7,6.6
+584,Sid Ahmed Bachiri,17,Female,Ouled Sidi Brahim,9th,8.3,6.8,83,8,0.5,5,8,1,0,0.8,35,15,1.1,1.7,1.1,Gaming,3,4.9
+585,Lotfi Tigha,15,Male,Oum El Bouaghi,8th,2.6,6.8,65,0,1.3,6,5,2,1,1.0,26,6,1.8,2.8,1.1,Other,6,9.5
+586,Feryel Aissaoui,17,Female,Saïda,8th,5.3,7.3,96,10,0.8,3,2,1,1,1.2,103,7,1.6,1.4,0.0,Education,4,7.9
+587,Hamza Djelloul,15,Female,El Taref,9th,2.7,3.6,71,1,0.0,5,6,6,0,1.8,50,7,2.3,2.9,2.1,Browsing,4,10.5
+588,Tarek El Fassi,16,Male,Tipaza,7th,3.6,7.0,100,1,0.0,4,5,7,1,0.9,90,13,3.6,1.5,1.4,Gaming,3,7.6
+589,Wafa Zerrouki,13,Prefer not to say,Boumerdès,11th,4.8,3.0,82,9,2.5,7,7,5,0,1.5,63,17,2.1,0.6,2.0,Gaming,7,3.9
+590,Zineb Bouziane,14,Prefer not to say,Ouargla,9th,2.5,6.7,56,4,1.1,1,5,1,0,1.0,96,20,2.6,0.9,1.1,Gaming,10,3.7
+591,Manel Guerfi,18,Prefer not to say,Illizi,9th,4.9,5.0,93,1,1.3,5,3,8,0,1.5,85,7,1.1,1.2,0.8,Browsing,1,4.1
+592,Yahia Abderrahmane,16,Male,Boghni,11th,5.5,5.9,78,5,1.2,1,7,3,0,0.7,44,14,0.9,1.3,1.3,Gaming,3,3.9
+593,Donia Bendjebbar,15,Male,Djebahia,7th,5.8,3.0,53,0,2.1,6,10,6,0,1.4,56,19,2.7,2.0,1.1,Gaming,8,3.6
+594,Samy Touam,15,Male,Ouargla,8th,2.7,8.6,76,4,0.1,5,7,2,0,0.8,76,11,0.4,1.6,0.7,Education,7,5.8
+595,Zaki Ayachi,13,Female,Larbaâ Nath Irathen,8th,3.0,7.4,74,2,1.4,5,1,9,0,1.5,78,12,2.7,2.9,1.4,Social Media,6,8.7
+596,Wafa Djilali,15,Male,Djelfa,12th,0.3,6.5,90,4,1.4,5,9,9,0,0.0,81,15,1.8,2.5,1.3,Other,4,5.0
+597,Kais Djaout,17,Female,Hamma Loulé,10th,10.3,7.0,57,2,0.4,6,9,4,0,1.0,136,20,3.9,1.7,0.2,Browsing,10,8.7
+598,Zohra Ouattara,16,Male,El Hadjira,12th,3.8,8.8,91,8,0.0,10,3,10,0,0.7,85,10,2.2,0.0,1.6,Social Media,4,4.6
